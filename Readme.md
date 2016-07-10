@@ -2,6 +2,7 @@
 
 # SEP Summer Institute Week 1
 July 11-15, 2016
+
 || MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
 | ------| ------------- |:-------------:| -----:|-----:|-----:|
 | 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
