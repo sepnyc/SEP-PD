@@ -74,3 +74,12 @@ Make your web pages do stuff. Add some basic interactivity and learn some ways t
 *Room: 811*
 
 In this day-long workshop, we'll cover fundamentals of LEGO robotics that will help teachers with the SEP robotics curriculum. Participants will learn their way around the Lego Mindstorms EV3 Kit, build a simple base robot, learn how to program it using the EV3 software and add movement and sensors.  We'll also explore useful features and tools of the EV3. 
+
+## Software & Links
+***
+*   [Scratch](https://scratch.mit.edu/)
+*   [CS Unplugged](http://csunplugged.org/)
+*   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+*   [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
+*   [Codepen](http://codepen.io/)
+*   [JS Bin](https://jsbin.com/?html,output)
