@@ -60,6 +60,8 @@ Using physical objects, participants will be introduced to a visual model of the
 *Facilitator: Ben SK*
 *Room: 812*
 
+[Intro to web design](http://bsk.education/PD/IntroWebDesign/) | [HTML & CSS](http://bsk.education/PD/IntroWebDesign/Day1_HTML_CSS.html)
+
 Learn the basics of HTML and CSS, the languages that control the content and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding/design tools, teaching tools, and build a few simple web pages.
 
 **Intro to programming for the web: Javascript**
