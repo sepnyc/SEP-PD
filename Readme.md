@@ -29,7 +29,7 @@ July 11-15, 2016
 *Facilitators: Don, Raquel and José*
 *Room: 812*
 
-[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1gPMdWpTEkRKrmRB7i7LgjixfpBaxlta4Q0PtJGyho34/edit?usp=sharing)
+[Slides Day 1](https://docs.google.com/a/strongschools.nyc/presentation/d/1gPMdWpTEkRKrmRB7i7LgjixfpBaxlta4Q0PtJGyho34/edit?usp=sharing)
 
 Meet the SEP team and learn more about the program, training offerings, curriculum resources and student community events.
 
