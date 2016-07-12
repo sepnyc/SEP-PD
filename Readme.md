@@ -29,7 +29,7 @@ July 11-15, 2016
 *Facilitators: Don, Raquel and José*
 *Room: 812*
 
-[Slides Day 1](https://docs.google.com/a/strongschools.nyc/presentation/d/1mcmN3BMaJgkRp2EaCaIBqRTN7riXwXDoCyFbkRMGUrU/edit?usp=sharing)
+[Slides Day 1](https://docs.google.com/a/strongschools.nyc/presentation/d/1mcmN3BMaJgkRp2EaCaIBqRTN7riXwXDoCyFbkRMGUrU/edit?usp=sharing) | [Slides Day 2](https://docs.google.com/a/strongschools.nyc/presentation/d/1UeAGPU5u6_AkBxSTaFO5Ja8tzg_CWQeQ6nxKYJLznRk/edit?usp=sharing)
 
 Meet the SEP team and learn more about the program, training offerings, curriculum resources and student community events.
 
@@ -37,7 +37,7 @@ Meet the SEP team and learn more about the program, training offerings, curricul
 *Facilitators: Don and José*
 *Room: 812*
 
-[Slides Day 1](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0ydVcwM1Vzc0RiSVU&usp=sharing)
+[Slides Day 1](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0ydVcwM1Vzc0RiSVU&usp=sharing) | [Slides Day 2](https://docs.google.com/a/strongschools.nyc/presentation/d/1oSDqWrWGl-WtZC19RLhTzcUBPn94rGUZLjAaHG2fsHc/edit?usp=sharing)
 
 In this workshop participants will be introduced to coding and computer science fundamentals using Scratch a block-based programming language. Participants will work on different projects that’ll cover these concepts via interactive projects and simple games.
 
