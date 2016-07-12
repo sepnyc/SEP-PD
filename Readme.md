@@ -27,13 +27,18 @@ July 11-15, 2016
 ### Days 1-2:
 **What is SEP?**
 *Facilitators: Don, Raquel and José*
-
 *Room: 812*
+
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1gPMdWpTEkRKrmRB7i7LgjixfpBaxlta4Q0PtJGyho34/edit?usp=sharing)
+
 Meet the SEP team and learn more about the program, training offerings, curriculum resources and student community events.
 
 **Intro to block-based programming: Scratch and CS fundamentals**
 *Facilitators: Don and José*
 *Room: 812*
+
+[Slides Day 1](https://docs.google.com/a/strongschools.nyc/presentation/d/1qWK9OvsilmVcDzmjR0k3IhutcetIWiKsivWmecs6dec/edit?usp=sharing)
+
 In this workshop participants will be introduced to coding and computer science fundamentals using Scratch a block-based programming language. Participants will work on different projects that’ll cover these concepts via interactive projects and simple games.
 
 **Scratch Lab**
