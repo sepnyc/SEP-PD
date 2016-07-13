@@ -58,6 +58,8 @@ During lab time, participants will have a chance to develop and work on their Sc
 *Facilitators: Don and José*
 *Room: 812*
 
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1BZHJmGMu8rLxmy8ao1LyFzZV_Hylc5jwqTZ6UxUZ9iQ/edit?usp=sharing)
+
 Using physical objects, participants will be introduced to a visual model of the internet and learn how different systems come together to create the vast network of computers that we know as the Internet.
 
 **Intro to web design: HTML & CSS**
