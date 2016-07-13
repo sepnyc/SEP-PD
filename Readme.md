@@ -90,6 +90,7 @@ In this day-long workshop, we'll cover fundamentals of LEGO robotics that will h
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+*   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [Scratch](https://scratch.mit.edu/)
 *   [CS Unplugged](http://csunplugged.org/)
 *   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
