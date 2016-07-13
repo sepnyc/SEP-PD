@@ -75,3 +75,14 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Room: 812*
 
 (Description forthcoming)
+###Day 10:
+
+**Lesson planning for SEP /Ask an expert**
+*Rooms: 812 and 824*
+
+An informal meeting of teachers to develop lessons on their topic of choice and present to other teachers for feedback.
+
+**Unconference: Propose and run a session**
+*Room: TBD*
+
+A chance for teachers to propose and present informally on any topic of their choice related to CS education.
