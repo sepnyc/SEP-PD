@@ -1,6 +1,10 @@
+# SEP Professional Development 2016
+*Schedules:*
+* SEP Summer Institute Week 1- below
+* [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
 
 
-# SEP Summer Institute Week 1
+## SEP Summer Institute Week 1
 July 11-15, 2016
 
 || MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
