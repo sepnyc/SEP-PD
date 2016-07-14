@@ -2,6 +2,7 @@
 *Schedules:*
 * SEP Summer Institute Week 1- below
 * [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
+* [SEP Summer Institute Week 2 for 12th grade teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2_12grade.md)
 
 
 ## SEP Summer Institute Week 1
