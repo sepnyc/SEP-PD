@@ -1,8 +1,10 @@
 # SEP Professional Development 2016
-*Schedules:*
+### Schedules:
 * SEP Summer Institute Week 1- below
 * [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
 * [SEP Summer Institute Week 2 for 12th grade teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2_12grade.md)
+
+### [Software & Links](#links)
 
 
 ## SEP Summer Institute Week 1
@@ -89,7 +91,7 @@ Make your web pages do stuff. Add some basic interactivity and learn some ways t
 
 In this day-long workshop, we'll cover fundamentals of LEGO robotics that will help teachers with the SEP robotics curriculum. Participants will learn their way around the Lego Mindstorms EV3 Kit, build a simple base robot, learn how to program it using the EV3 software and add movement and sensors.  We'll also explore useful features and tools of the EV3. 
 
-## Software & Links
+## <a name="links">Software & Links</a>
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
