@@ -65,7 +65,7 @@ During lab time, participants will have a chance to develop and work on their Sc
 
 Using physical objects, participants will be introduced to a visual model of the internet and learn how different systems come together to create the vast network of computers that we know as the Internet.
 
-**Intro to web design: HTML & CSS**
+**Intro to web design: HTML & CSS - Day 1**
 *Facilitator: Ben SK*
 *Room: 812*
 
@@ -73,9 +73,11 @@ Using physical objects, participants will be introduced to a visual model of the
 
 Learn the basics of HTML and CSS, the languages that control the content and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding/design tools, teaching tools, and build a few simple web pages.
 
-**Intro to programming for the web: Javascript**
-*Facilitators: Ben SK and Aankit*
+**Intro to web design: HTML/CSS/JS - Day 2**
+*Facilitators: Ben SK*
 *Room: 812*
+
+[Intro to web design](http://bsk.education/PD/IntroWebDesign/) | [PD "parking lot"](https://todaysmeet.com/SEP_Web_Design_PD) | [Tools & Resources](http://bsk.education/PD/IntroWebDesign/ToolsResources.html)
 
 Make your web pages do stuff. Add some basic interactivity and learn some ways to speed up development and make buildings sites easier and better. 
 
@@ -88,6 +90,8 @@ Make your web pages do stuff. Add some basic interactivity and learn some ways t
 **Intro to Lego Robotics**
 *Facilitators: EJ Park and Leo*
 *Room: 811*
+
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/14TBfvuLAW25tUgawHzW0FwseUPyednJ_4YT7DTebst8/edit?usp=sharing)
 
 In this day-long workshop, we'll cover fundamentals of LEGO robotics that will help teachers with the SEP robotics curriculum. Participants will learn their way around the Lego Mindstorms EV3 Kit, build a simple base robot, learn how to program it using the EV3 software and add movement and sensors.  We'll also explore useful features and tools of the EV3. 
 
