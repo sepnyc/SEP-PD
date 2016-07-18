@@ -24,11 +24,6 @@ July 18-22, 2016
 
 ## Workshop Descriptions
 ***
-### Days 1-2:
-**What is SEP?**
-*Facilitators: Don, Raquel and José*
-*Room: 812*
-
 ###Days 6-7:
 
 **Lesson Planning Party**
