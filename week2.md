@@ -10,7 +10,7 @@ July 18-22, 2016
 9:30 AM ||||| Mini lesson demo + feedback session
 10:00 AM | Intro to electronics using paper circuits|Arduino Review + Lab|Computer Science Teaching Strategies|CS Implementation Lifehacks|
 10:30 AM| 
-11:00 AM |
+11:00 AM | Intro to Physical Computing: Arduino
 11:30 AM |
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH|
 12:30 PM |
