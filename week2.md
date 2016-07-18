@@ -29,11 +29,15 @@ July 18-22, 2016
 *Facilitators: SEP Staff*
 *Room: 820*
 
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1yk3502TXoVDZK5kXIIkBHR-VRl6cRPjX-cAUIEGkN0o/edit?usp=sharing)
+
 From Monday through Thursday, teachers will meet in groups to work on a 15-minute mini lesson addressing one of the SEP units. This mini lesson will be then presented on Friday to their peers and to a group of SEP cohort 1 teachers.
 
 **Paper Circuits**
 *Facilitators: Jose and Matt*
 *Room: 820*
+
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1NQ2Di4PVGhurg-o_UjsZzBrJooxAwAe_RqKR8mFqk64/edit?usp=sharing)
 
 In this workshop, participants will learn the basics of electricity and using simple materials like copper tape, LEDs, coin cell batteries and paper, they'll create their first working circuit on paper.
 
