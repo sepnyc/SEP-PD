@@ -31,6 +31,12 @@ July 18-22, 2016
 
 From Monday through Thursday, teachers will meet in groups to work on a 15-minute mini lesson addressing one of the SEP units. This mini lesson will be then presented on Friday to their peers and to a group of SEP cohort 1 teachers.
 
+**Paper Circuits**
+*Facilitators: Jose and Matt*
+*Room: 820*
+
+In this workshop, participants will learn the basics of electricity and using simple materials like copper tape, LEDs, coin cell batteries and paper, they'll create their first working circuit on paper.
+
 **Intro to Physical Computing: Arduino**
 *Facilitator: Matt Boyle*
 *Room: 820*
