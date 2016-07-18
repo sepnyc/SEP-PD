@@ -1,7 +1,6 @@
-
-
 # SEP Summer Institute Week 2 for new teachers
 July 18-22, 2016
+
 
 || MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
 | ------| ------------- |:-------------:| -----:|-----:|-----:|
@@ -84,3 +83,15 @@ An informal meeting of teachers to develop lessons on their topic of choice and 
 *Rooms: TBD*
 
 A chance for teachers to propose and present informally on any topic of their choice related to CS education.
+
+##Software & Links
+***
+*   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
+*   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+*   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
+*   [Scratch](https://scratch.mit.edu/)
+*   [CS Unplugged](http://csunplugged.org/)
+*   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+*   [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
+*   [Codepen](http://codepen.io/)
+*   [JS Bin](https://jsbin.com/?html,output)
