@@ -47,11 +47,13 @@ In this workshop, participants will learn the basics of electricity and using si
 
 Monday
 
-[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1AfgN_aS_Eh-CcCvrHXGw3aY4inTh9tQssZFj9yIwaBQ/edit?usp=sharing)
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1gvT0b6IUNgIi6CRoDJzTAxkIEPkWZ0V3i54fBuDlNlo/edit?usp=sharing)
 
 Participants will be introduced to physical computing with Arduino by building a basic circuit on the breadboard first. After they’ll work through the basics of the Arduino syntax using the Blink code, common functions and commands like setup,, loop, pinMode, digitalWrite, and commenting. At the end of the day participants will have a working circuit consisting of an LED and a potentiometer. 
 
 Tuesday
+
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1gvT0b6IUNgIi6CRoDJzTAxkIEPkWZ0V3i54fBuDlNlo/edit?usp=sharing)
 
 On the second day, teachers will explore the SIK Guide, build another project (involving two components, like buttons & LEDs) and learn about pedagogy and approaches to other projects, finding other people's code online & adapting it, using libraries, fritzing, among other things.
 
