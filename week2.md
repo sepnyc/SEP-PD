@@ -75,6 +75,8 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Facilitator: Ben SK*
 *Room: 820*
 
+[Lesson](https://docs.google.com/presentation/d/1GIksaQMp1V_CxZcZNW-7UU7KyTQPi84E-YWggYOqxWY/edit?usp=sharing)
+
 **Google Classroom + Assessment Tools**
 *Facilitator: Ben SK*
 *Room: 820*
