@@ -68,6 +68,9 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Facilitators: Tim Chen and Christa Quint*
 *Room: 820*
 
+[Slides](https://docs.google.com/presentation/d/1m_8YLyD8fjcSs3GkYKaMAU5qVKyMtWCd-AWwGaerUN0/edit?usp=sharing) | [Lessons & Notes](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0yZFZYWDFVNEg0Nmc&usp=sharing)
+
+
 **CS Lesson Demo**
 *Facilitator: Ben SK*
 *Room: 820*
