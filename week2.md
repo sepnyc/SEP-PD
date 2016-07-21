@@ -16,7 +16,7 @@ July 18-22, 2016
 1:00 PM |Intro to Physical Computing: Arduino|Intro to Physical Computing II: Arduino|CS Lesson Demo|Teaching CS to ELLs|Lesson planning / Ask an expert|
 1:30 PM |
 2:00 PM |||Google Classroom + Tools|
-2:30 PM ||Arduino Lab||Differiantion in a CS classroom|
+2:30 PM ||Arduino Lab||Differentiation in a CS classroom|
 3:00 PM |
 3:30 PM |
 4:00 PM  |
