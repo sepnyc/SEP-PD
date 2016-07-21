@@ -7,16 +7,16 @@ July 18-22, 2016
 | 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
 9:15 AM |Welcome / Lesson Planning Party |Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome|
 9:30 AM ||||| Mini lesson demo + feedback session
-10:00 AM | Intro to electronics using paper circuits|Arduino Review + Lab|Computer Science Teaching Strategies|CS Implementation Lifehacks|
+10:00 AM | Intro to electronics using paper circuits|Arduino Review + Lab|Computer Science Teaching Strategies|SEP & CS Implementation|
 10:30 AM| 
 11:00 AM | Intro to Physical Computing: Arduino
 11:30 AM |
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH|
 12:30 PM |
-1:00 PM |Intro to Physical Computing: Arduino|Intro to Physical Computing II: Arduino|CS Lesson Demo|Teaching CS to SPED|Lesson planning / Ask an expert|
+1:00 PM |Intro to Physical Computing: Arduino|Intro to Physical Computing II: Arduino|CS Lesson Demo|Teaching CS to ELLs|Lesson planning / Ask an expert|
 1:30 PM |
 2:00 PM |||Google Classroom + Tools|
-2:30 PM ||Arduino Lab||Teaching CS to ELLs|
+2:30 PM ||Arduino Lab||Differiantion in a CS classroom|
 3:00 PM |
 3:30 PM |
 4:00 PM  |
@@ -83,8 +83,18 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 ###Day 9:
 
-**CS Implementation Lifehacks**
-*Facilitator: Matt Boyle*
+**SEP and CS Implementation**
+*Facilitator: Raquel and Matt Boyle*
+*Room: 820*
+
+[Raquel's slides](https://docs.google.com/presentation/d/1I5Kx_HbvBqQXNRU6pAaKX1R3OgbI7fQ6t5MMS64tnr0/edit?usp=sharing)
+
+**Teaching CS to ELLs**
+*Facilitator: Ariadna Phillips-Santos*
+*Room: 820*
+
+**Differentiation tips for a CS classroom**
+*Facilitator: Ben SK*
 *Room: 820*
 
 ###Day 10:
