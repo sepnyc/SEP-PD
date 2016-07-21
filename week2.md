@@ -93,7 +93,7 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Facilitator: Ariadna Phillips-Santos*
 *Room: 820*
 
-[Resources](http://bit.ly/2aclh6S)
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1yd3-Ic_r487MU1UJQ4A5_2D1FVQijy2zbvRbojQ9eVU/edit?usp=sharing) | [Resources](http://bit.ly/2aclh6S)
 
 **Differentiation tips for a CS classroom**
 *Facilitator: Ben SK*
