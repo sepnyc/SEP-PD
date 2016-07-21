@@ -87,11 +87,13 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Facilitator: Raquel and Matt Boyle*
 *Room: 820*
 
-[Raquel's slides](https://docs.google.com/presentation/d/1I5Kx_HbvBqQXNRU6pAaKX1R3OgbI7fQ6t5MMS64tnr0/edit?usp=sharing)
+[Raquel's slides](https://docs.google.com/presentation/d/1I5Kx_HbvBqQXNRU6pAaKX1R3OgbI7fQ6t5MMS64tnr0/edit?usp=sharing) | [Matt's slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1WrUkeOwT0heZWZB2WqWpfW3dKrPiVr2RQLQAqMKjA-g/edit?usp=sharing)
 
 **Teaching CS to ELLs**
 *Facilitator: Ariadna Phillips-Santos*
 *Room: 820*
+
+[Resources](http://bit.ly/2aclh6S)
 
 **Differentiation tips for a CS classroom**
 *Facilitator: Ben SK*
