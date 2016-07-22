@@ -5,7 +5,7 @@ July 18-22, 2016
 || MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
 | ------| ------------- |:-------------:| -----:|-----:|-----:|
 | 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
-9:15 AM |Welcome / Lesson Planning Party |Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome|
+9:15 AM |Welcome / Lesson Planning Party |Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|Welcome / Lesson Planning Party|
 9:30 AM ||||| Mini lesson demo + feedback session
 10:00 AM | Intro to electronics using paper circuits|Arduino Review + Lab|Computer Science Teaching Strategies|SEP & CS Implementation|
 10:30 AM| 
@@ -13,7 +13,7 @@ July 18-22, 2016
 11:30 AM |
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH|
 12:30 PM |
-1:00 PM |Intro to Physical Computing: Arduino|Intro to Physical Computing II: Arduino|CS Lesson Demo|Teaching CS to ELLs|Lesson planning / Ask an expert|
+1:00 PM |Intro to Physical Computing: Arduino|Intro to Physical Computing II: Arduino|CS Lesson Demo|Teaching CS to ELLs|Lesson planning / Support breakout sessions|
 1:30 PM |
 2:00 PM |||Google Classroom + Tools|
 2:30 PM ||Arduino Lab||Differentiation in a CS classroom|
@@ -101,19 +101,16 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 ###Day 10:
 
-**Mini lesson demo / teacher feedback**
-*Facilitators: Ben SK, Tim Chen and Christa Quint*
-*Rooms: 816 and 820*
+**Mini lesson demo + teacher feedback**
+*Facilitators: Ben SK, Tim Chen, Matt Boyle and Christa Quint*
+*Rooms: 812 and 820*
 
-**Lesson planning for SEP /Ask an expert**
-*Rooms: 816 and 820*
+Group presentations of 10 minute demo lessons developed during the week. Cohort 1 teachers will provide feedback.
 
-An informal meeting of teachers to develop lessons on their topic of choice and present to other teachers for feedback.
+**Lesson planning /Support breakout sessions**
+*Rooms: 812, 816 and 820*
 
-**Unconference: Propose and run a session**
-*Rooms: TBD*
-
-A chance for teachers to propose and present informally on any topic of their choice related to CS education.
+An informal meeting of teachers to develop their first lesson of the year as well as to get support on specific topics from SEP staff and cohort 1 teachers. 
 
 ##Software & Links
 ***
