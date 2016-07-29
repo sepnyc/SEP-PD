@@ -95,9 +95,11 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1yd3-Ic_r487MU1UJQ4A5_2D1FVQijy2zbvRbojQ9eVU/edit?usp=sharing) | [Resources](http://bit.ly/2aclh6S)
 
-**Differentiation tips for a CS classroom**
+**Differentiation and small groups in the CS classroom**
 *Facilitator: Ben SK*
 *Room: 820*
+
+[Slides](https://docs.google.com/presentation/d/1hL-VyZkavB1bgphF5ojT551JJlJt_L2P4TGLeNiA7aA/edit#slide=id.g10d5bd1038_1_0)
 
 ###Day 10:
 
