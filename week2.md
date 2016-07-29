@@ -75,7 +75,7 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 *Facilitator: Ben SK*
 *Room: 820*
 
-[Lesson](https://docs.google.com/presentation/d/1GIksaQMp1V_CxZcZNW-7UU7KyTQPi84E-YWggYOqxWY/edit?usp=sharing)
+[Scratch Lesson](https://docs.google.com/presentation/d/1GIksaQMp1V_CxZcZNW-7UU7KyTQPi84E-YWggYOqxWY/edit?usp=sharing) | [Javascript Lesson](https://docs.google.com/presentation/d/1PB1c3xGxt9706-eDEtLLxEpNYM5ttPVsJ05j4iIPUfU/edit?usp=sharing)
 
 **Google Classroom + Assessment Tools**
 *Facilitator: Ben SK*
@@ -111,6 +111,8 @@ Group presentations of 10 minute demo lessons developed during the week. Cohort 
 *Rooms: 812, 816 and 820*
 
 An informal meeting of teachers to develop their first lesson of the year as well as to get support on specific topics from SEP staff and cohort 1 teachers. 
+
+[Google Classroom Resources](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0yZFd0YTZfNDlNSkU&usp=sharing)
 
 ##Software & Links
 ***
