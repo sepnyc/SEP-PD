@@ -53,7 +53,7 @@ In this workshop participants will be introduced to coding and computer science 
 *Facilitators: Dan, Felix and Sandy*
 *Room: 817*
 
-[Intro to web design](http://bsk.education/PD/IntroWebDesign/) | [HTML & CSS](http://bsk.education/PD/IntroWebDesign/Day1_HTML_CSS.html) | [PD "parking lot"](https://todaysmeet.com/SEP_Web_Design_PD) | [Tools & Resources](http://bsk.education/PD/IntroWebDesign/ToolsResources.html)
+[Slides]
 
 Learn the basics of HTML and CSS, the languages that control the content and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding/design tools, teaching tools, and build a few simple web pages.
 
