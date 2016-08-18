@@ -62,7 +62,7 @@ In this workshop participants will be introduced to coding and computer science 
 
 [Slides]
 
-Learn the basics of HTML and CSS, the languages that control the content and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding/design tools, teaching tools, and build a few simple web pages.
+Discuss what make the internet tick. Learn the basics of HTML and CSS, the languages that control the structure and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding, design & teaching tools, and either plan a lesson or build your first web pages!
 
 ### Day 3:
 
