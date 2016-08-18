@@ -1,45 +1,43 @@
 # SEP Professional Development 2016
-### Schedules:
-* SEP Summer Institute Week 1- below
-* [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
-* [SEP Summer Institute Week 2 for 12th grade teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2_12grade.md)
-* [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
 
 ### [Software & Links](#links)
 
+## SEP Summer Institute August Session
+August 22-24, 2016
 
-## SEP Summer Institute Week 1
-July 11-15, 2016
-
-|| MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
+|| MONDAY  | TUESDAY        | WEDNESDAY 
 | ------| ------------- |:-------------:| -----:|-----:|-----:|
-| 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
-9:15 AM |Welcome|Welcome / Unplugged|Welcome / Unplugged|Welcome / Unplugged|Welcome / Unplugged|
-9:30 AM |Welcome to SEP!|Review of Scratch and CS Fundamentals|See and build the Internet!|Intro to Javascript (Programming for the Web)|Intro to Lego Robotics|
+| 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
+9:15 AM |Welcome|Welcome|Welcome
+9:30 AM |Welcome to SEP!|Intro Web Design (HTML)|Intro to Lego Robotics
 10:00 AM |
-10:30 AM|||Intro to web design (HTML/CSS)|
+10:30 AM|| What is Code?
 11:00 AM |
-11:30 AM |
-12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH|
+11:30 AM | What is Scratch?
+12:00 PM |LUNCH|LUNCH|LUNCH
 12:30 PM |
-1:00 PM |Intro to block-based programming: Scratch and CS Fundamentals| Scratch Lab|Intro to web design (HTML/CSS)|Intro to Javascript (Programming for the Web)|Intro to Lego Robotics|
+1:00 PM |Intro to block-based programming: Scratch and CS Fundamentals| Intro to web design (CSS)|Intro to Lego Robotics
 1:30 PM |
-2:00 PM ||||Web lab
+2:00 PM |
 2:30 PM |
 3:00 PM |
-3:30 PM |
-4:00 PM  |
+3:30 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements
+4:00 PM |
 
 ## Workshop Descriptions
 ***
 ### Day 1:
 **What is SEP?**
 *Facilitators: Don, Raquel and José*
-*Room: 812*
+*Room: 817*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1mcmN3BMaJgkRp2EaCaIBqRTN7riXwXDoCyFbkRMGUrU/edit?usp=sharing) | [Slides Day 2](https://docs.google.com/a/strongschools.nyc/presentation/d/1UeAGPU5u6_AkBxSTaFO5Ja8tzg_CWQeQ6nxKYJLznRk/edit?usp=sharing)
 
 Meet the SEP team and learn more about the program, training offerings, curriculum resources and student community events.
+
+**What is Code?**
+*Facilitators: Don and José*
+*Room: 817*
 
 **Intro to block-based programming: Scratch and CS fundamentals**
 *Facilitators: Don and José*
@@ -52,8 +50,8 @@ In this workshop participants will be introduced to coding and computer science 
 ### Day 2:
 
 **Intro to web design: HTML & CSS**
-*Facilitator: Ben SK*
-*Room: 812*
+*Facilitators: Dan, Felix and Sandy*
+*Room: 817*
 
 [Intro to web design](http://bsk.education/PD/IntroWebDesign/) | [HTML & CSS](http://bsk.education/PD/IntroWebDesign/Day1_HTML_CSS.html) | [PD "parking lot"](https://todaysmeet.com/SEP_Web_Design_PD) | [Tools & Resources](http://bsk.education/PD/IntroWebDesign/ToolsResources.html)
 
@@ -62,8 +60,8 @@ Learn the basics of HTML and CSS, the languages that control the content and sty
 ### Day 3:
 
 **Intro to Lego Robotics**
-*Facilitators: EJ Park and Leo*
-*Room: 811*
+*Facilitators: EJ Park and José*
+*Room: 817*
 
 [Slides]
 
@@ -74,6 +72,7 @@ In this day-long workshop, we'll cover fundamentals of LEGO robotics that will h
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
+*   [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [Scratch](https://scratch.mit.edu/)
 *   [CS Unplugged](http://csunplugged.org/)
