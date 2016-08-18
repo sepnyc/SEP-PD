@@ -46,6 +46,8 @@ Meet the SEP team and learn more about the program, training offerings, curricul
 *Facilitators: Don and José*
 *Room: 817*
 
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1GoWPtF8mm07lLA7c4EYjZWYRIs_bG5nzAeESAyuS_Fg/edit?usp=sharing)
+
 **Intro to block-based programming: Scratch and CS fundamentals**
 *Facilitators: Don and José*
 *Room: 812*
