@@ -16,7 +16,7 @@ August 22-24, 2016
 | ------| ------------- |:-------------:| -----:|-----:|-----:|
 | 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
 9:15 AM |Welcome|Welcome|Welcome
-9:30 AM |Welcome to SEP!|Intro Web Design (HTML)|Intro to Lego Robotics
+9:30 AM |Welcome to SEP!|Intro to Web Design (HTML)|Intro to Lego Robotics
 10:00 AM |
 10:30 AM| What is Code?
 11:00 AM |
