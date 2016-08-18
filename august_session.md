@@ -1,5 +1,12 @@
 # SEP Professional Development 2016
 
+### Schedules:
+* SEP Summer Institute August Session - see below
+* [SEP Summer Institute Week 1](https://github.com/sepnyc/SEP-PD/blob/master/week1.md)
+* [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
+* [SEP Summer Institute Week 2 for 12th grade teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2_12grade.md)
+* [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
+
 ### [Software & Links](#links)
 
 ## SEP Summer Institute August Session
