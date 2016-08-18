@@ -52,7 +52,7 @@ Meet the SEP team and learn more about the program, training offerings, curricul
 
 [Slides Morning](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0ydVcwM1Vzc0RiSVU&usp=sharing) | [Slides Afternoon](https://docs.google.com/a/strongschools.nyc/presentation/d/1oSDqWrWGl-WtZC19RLhTzcUBPn94rGUZLjAaHG2fsHc/edit?usp=sharing)
 
-In this workshop participants will be introduced to coding and computer science fundamentals using Scratch a block-based programming language. Participants will work on different projects that’ll cover these concepts via interactive projects and simple games.
+In this workshop participants will be introduced to coding and computer science fundamentals using Scratch a block-based programming language. Participants will work on different activities that’ll cover these concepts via interactive projects and simple games.
 
 ### Day 2:
 
