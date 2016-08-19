@@ -50,7 +50,7 @@ Meet the SEP team and learn more about the program, training offerings, curricul
 
 **Intro to block-based programming: Scratch and CS fundamentals**
 *Facilitators: Don and José*
-*Room: 812*
+*Room: 817*
 
 [Slides Morning](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0ydVcwM1Vzc0RiSVU&usp=sharing) | [Slides Afternoon](https://docs.google.com/a/strongschools.nyc/presentation/d/1TP8fdWvc4ZXJ3B7mO9WEsNv0tFWFxM9bsc1bOjQD-4U/edit?usp=sharing)
 
