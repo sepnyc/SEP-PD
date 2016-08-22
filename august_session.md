@@ -52,7 +52,7 @@ Meet the SEP team and learn more about the program, training offerings, curricul
 *Facilitators: Don and José*
 *Room: 817*
 
-[Slides Morning](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0ydVcwM1Vzc0RiSVU&usp=sharing) | [Slides Afternoon](https://docs.google.com/a/strongschools.nyc/presentation/d/1TP8fdWvc4ZXJ3B7mO9WEsNv0tFWFxM9bsc1bOjQD-4U/edit?usp=sharing)
+[Slides Morning](https://docs.google.com/a/strongschools.nyc/presentation/d/1pxf1QbYDoZBdQFgWHUlTp9_UtHpt234rJiA-05xYJh0/edit?usp=sharing) | [Slides Afternoon](https://docs.google.com/a/strongschools.nyc/presentation/d/1DTX2LyCtTTXA_eZ41W5l80J7snXNTu-20WSg4Qk6iYU/edit?usp=sharing)
 
 In this workshop participants will be introduced to coding and computer science fundamentals using Scratch a block-based programming language. Participants will work on different activities that’ll cover these concepts via interactive projects and simple games.
 
