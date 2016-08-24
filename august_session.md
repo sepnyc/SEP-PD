@@ -72,7 +72,7 @@ Discuss what make the internet tick. Learn the basics of HTML and CSS, the langu
 *Facilitators: EJ Park and José*
 *Room: 817*
 
-[Slides]
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1xkGHRCZW_V8l4gN5ovj6dm_LpXjnn5IxwlGneXj8PMQ/edit?usp=sharing)
 
 In this day-long workshop, we'll cover fundamentals of LEGO robotics that will help teachers with the SEP robotics curriculum. Participants will learn their way around the Lego Mindstorms EV3 Kit, build a simple base robot, learn how to program it using the EV3 software and add movement and sensors.  We'll also explore useful features and tools of the EV3. 
 
