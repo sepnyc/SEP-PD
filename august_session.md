@@ -62,7 +62,7 @@ In this workshop participants will be introduced to coding and computer science 
 *Facilitators: Dan, Felix and Sandy*
 *Room: 817*
 
-[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1aJBZvFvE2fo885M_wDocHOk2p_kJ_0Tx4cs6nMb55go/edit?usp=sharing)
+[Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1KFutHH8lwFRMLgp-UaIhf4kVJn1VmJPzcRrSGZlENqc/edit?usp=sharing)
 
 Discuss what make the internet tick. Learn the basics of HTML and CSS, the languages that control the structure and style of all web pages. By the end of the day, you will gain familiarity with syntax, coding, design & teaching tools, and either plan a lesson or build your first web pages!
 
