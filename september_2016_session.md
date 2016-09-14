@@ -47,7 +47,7 @@ Teachers (K-12) will work to create effective assessment tools for computer scie
 ### Cohort 1 (12th grade):
 
 **Get Confident with P5!**
-*Facilitator: Sharon De La Rosa*
+*Facilitator: Sharon De La Cruz*
 *Room: 3204*
 
 Participants will review and expand on their P5 knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on a visual project - artistic, narrative, and/or interactive - to apply these concepts. This workshop is intended for SEP 12th grade teachers who received a basic intro to P5 in July 2017.
