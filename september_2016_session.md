@@ -37,13 +37,6 @@ September 17, 2016
 
 Participants will review and expand on their Scratch knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on interactive Scratch project to apply these concepts. This workshop is intended for SEP 6th and 9th grade teachers.
 
-**Assessment Tools and Rubrics for CS**
-*Facilitator: Lionel Bergeron*
-*Room: 3213*
-
-Teachers (K-12) will work to create effective assessment tools for computer science education learning activities and projects.  Teachers will learn how to build a meaningful rubric that will help to guide them in writing lessons plans and create additional informal and formal assessments tools, such as student checklists, exit slips and reflection journals. 
-
-
 ### Cohort 1 (12th grade):
 
 **Get Confident with P5!**
@@ -51,6 +44,14 @@ Teachers (K-12) will work to create effective assessment tools for computer scie
 *Room: 3204*
 
 Participants will review and expand on their P5 knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on a visual project - artistic, narrative, and/or interactive - to apply these concepts. This workshop is intended for SEP 12th grade teachers who received a basic intro to P5 in July 2017.
+
+### All cohorts:
+
+**Assessment Tools and Rubrics for CS**
+*Facilitator: Lionel Bergeron*
+*Room: 3213*
+
+Teachers (K-12) will work to create effective assessment tools for computer science education learning activities and projects.  Teachers will learn how to build a meaningful rubric that will help to guide them in writing lessons plans and create additional informal and formal assessments tools, such as student checklists, exit slips and reflection journals. 
 
 
 ## <a name="links">Software & Links</a>
