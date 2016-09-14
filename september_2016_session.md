@@ -12,14 +12,14 @@ September 17, 2016
 | ------| ------------- |
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
-9:30 AM |Advanced Scratch / Get Confident with P5! / Session I
+9:30 AM |Advanced Scratch / Get Confident with P5!
 10:00 AM |
 10:30 AM| Session II
 11:00 AM |
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |
+1:00 PM |Assessment Tools and Rubrics for CS
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -47,7 +47,7 @@ Teachers (K-12) will work to create effective assessment tools for computer scie
 ### Cohort 1 (12th grade):
 
 **Get Confident with P5!**
-*Facilitators: Don and José*
+*Facilitator: Sharon De La Rosa*
 *Room: 3204*
 
 Participants will review and expand on their P5 knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on a visual project - artistic, narrative, and/or interactive - to apply these concepts. This workshop is intended for SEP 12th grade teachers who received a basic intro to P5 in July 2017.
