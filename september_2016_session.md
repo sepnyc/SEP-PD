@@ -35,6 +35,8 @@ September 17, 2016
 *Facilitator: Tim Chen*
 *Room: 3213*
 
+[Slides](https://docs.google.com/presentation/d/1apIh0ct3ZFODNAictfTj98DhTvqoMIanNVUQh45g6kU/edit?usp=sharing)
+
 Participants will review and expand on their Scratch knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on interactive Scratch project to apply these concepts. This workshop is intended for SEP 6th and 9th grade teachers.
 
 ### Cohort 1 (12th grade):
