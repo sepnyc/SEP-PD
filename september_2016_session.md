@@ -53,6 +53,8 @@ Participants will review and expand on their P5 knowledge, solidify their unders
 *Facilitator: Lionel Bergeron*
 *Room: 3213*
 
+[Slides](https://docs.google.com/presentation/d/19p-_T99PfTxiqcCRNd192yvpAXMVG69-ETA5nSG1ehk/edit?usp=sharing)
+
 Teachers (K-12) will work to create effective assessment tools for computer science education learning activities and projects.  Teachers will learn how to build a meaningful rubric that will help to guide them in writing lessons plans and create additional informal and formal assessments tools, such as student checklists, exit slips and reflection journals. 
 
 
