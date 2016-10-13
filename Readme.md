@@ -4,6 +4,7 @@
 * [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
 * [SEP Summer Institute Week 2 for 12th grade teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2_12grade.md)
 * [SEP Summer Institute August Session](https://github.com/sepnyc/SEP-PD/blob/master/august_session.md)
+* [SEP September PD](https://github.com/sepnyc/SEP-PD/blob/master/september_2016_session.md)
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
 
 ### [Software & Links](#links)
