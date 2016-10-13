@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |Teacher Observer Lesson Demos
+1:00 PM |Teacher Learner Observer Model
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -37,7 +37,7 @@
 
 Participants will gain a better understanding of functions in computer programming and will learn how to create custom blocks in Scratch via a hands-on project. 
 
-**Teacher Observer Lesson Demos**
+**Teacher Learner Observer Model**
 *Facilitator: Alana Aaron and EJ Park*
 *Room: 3213*
 
