@@ -33,7 +33,7 @@
 *Facilitators: EJ Park and Jose Olivares*
 *Room: 3213*
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1xT4hkbTD0606j2Cq1LaRvcwTmBaxXIcymGubu_sMLVI/edit?usp=sharing)
 
 Participants will gain a better understanding of functions in computer programming and will learn how to create custom blocks in Scratch via a hands-on project. 
 
