@@ -53,4 +53,10 @@ Participants will gain a better understanding of functions in computer programmi
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [Scratch](https://scratch.mit.edu/)
+* [Custom Blocks](https://wiki.scratch.mit.edu/wiki/Custom_Blocks)
+* [Define block and input types](https://wiki.scratch.mit.edu/wiki/Define_()_(block))
+* [Make a block video tutorial](https://www.youtube.com/watch?v=-q5vYECkNek)
+* [Functions and Procedures: BBC Bitesize](http://www.bbc.co.uk/education/guides/z9hykqt/revision)
+
+
 
