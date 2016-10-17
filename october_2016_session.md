@@ -41,9 +41,9 @@ Participants will gain a better understanding of functions in computer programmi
 *Facilitator: Alana Aaron and EJ Park*
 *Room: 3213*
 
-[Slides]()
+[Slides](https://drive.google.com/open?id=1pVX_5mN58de8x1wo7NBKhbhbL2TcytQpCle21RYX2bQ)
 
-//
+[Announcements + Hackathon Info](https://docs.google.com/presentation/d/1XSnWfN_Laq9KjCpLlur5TUTyQbISpRmBxS41n3pprd0/edit?usp=sharing)
 
 
 ## <a name="links">Software & Links</a>
