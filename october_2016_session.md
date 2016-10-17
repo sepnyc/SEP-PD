@@ -54,6 +54,7 @@ Participants will gain a better understanding of functions in computer programmi
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [Scratch](https://scratch.mit.edu/)
 * [SEP Scratch Studio](https://scratch.mit.edu/studios/3485133/)
+* [Kahoot - Scratch Quiz](https://create.kahoot.it/#quiz/76b7a659-13b0-4700-a319-8e9bb46f7a7d)
 * [Custom Blocks](https://wiki.scratch.mit.edu/wiki/Custom_Blocks)
 * [Define block and input types](https://wiki.scratch.mit.edu/wiki/Define_()_(block))
 * [Make a block video tutorial](https://www.youtube.com/watch?v=-q5vYECkNek)
