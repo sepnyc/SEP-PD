@@ -17,11 +17,9 @@
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+* [SEP PD materials](https://drive.google.com/drive/folders/0B8D2ft9M8qQCYXY2V3VndWNob0E?usp=sharing)
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
-*   [Scratch](https://scratch.mit.edu/)
 *   [CS Unplugged](http://csunplugged.org/)
 *   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-*   [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
-*   [Codepen](http://codepen.io/)
-*   [JS Bin](https://jsbin.com/?html,output)
+
