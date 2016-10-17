@@ -35,6 +35,8 @@
 
 [Slides](https://docs.google.com/presentation/d/1xT4hkbTD0606j2Cq1LaRvcwTmBaxXIcymGubu_sMLVI/edit?usp=sharing)
 
+[Functions - Unplugged Activity](https://drive.google.com/open?id=0B8ZcjuRP1lu5ZDJXUHZVSnI3cjA)
+
 Participants will gain a better understanding of functions in computer programming and will learn how to create custom blocks in Scratch via a hands-on project. 
 
 **Teacher Learner Observer Model**
@@ -42,6 +44,8 @@ Participants will gain a better understanding of functions in computer programmi
 *Room: 3213*
 
 [Slides](https://drive.google.com/open?id=1pVX_5mN58de8x1wo7NBKhbhbL2TcytQpCle21RYX2bQ)
+
+[TLO Resources](https://drive.google.com/open?id=0B8ZcjuRP1lu5SmpVMHVCd0pEQnc)
 
 [Announcements + Hackathon Info](https://docs.google.com/presentation/d/1XSnWfN_Laq9KjCpLlur5TUTyQbISpRmBxS41n3pprd0/edit?usp=sharing)
 
@@ -59,6 +63,6 @@ Participants will gain a better understanding of functions in computer programmi
 * [Define block and input types](https://wiki.scratch.mit.edu/wiki/Define_()_(block))
 * [Make a block video tutorial](https://www.youtube.com/watch?v=-q5vYECkNek)
 * [Functions and Procedures: BBC Bitesize](http://www.bbc.co.uk/education/guides/z9hykqt/revision)
-
+* [Computer Programming Curriculum Progress Check-in Sheet](https://drive.google.com/open?id=0B8ZcjuRP1lu5TTRpV1V4T3BVUXc)
 
 
