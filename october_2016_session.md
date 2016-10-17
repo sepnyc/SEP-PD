@@ -45,7 +45,9 @@ Participants will gain a better understanding of functions in computer programmi
 
 [Slides](https://drive.google.com/open?id=1pVX_5mN58de8x1wo7NBKhbhbL2TcytQpCle21RYX2bQ)
 
-[TLO Resources](https://drive.google.com/open?id=0B8ZcjuRP1lu5SmpVMHVCd0pEQnc)
+[Teacher Learner Observer Model Resources](https://drive.google.com/open?id=0B8ZcjuRP1lu5SmpVMHVCd0pEQnc)
+
+Participants will plan a lesson on a topic of either "Scratch Custom Block"  or "Scratch Project Development" and demonstrate the lesson by using the Teacher Learner Observer (TLO) model. The TLO model is used to plan and teach a lesson from a particular curriculum, just like it would happen in the classroom. Then it’s followed up by a discussion of the lesson that was modeled.
 
 [Announcements + Hackathon Info](https://docs.google.com/presentation/d/1XSnWfN_Laq9KjCpLlur5TUTyQbISpRmBxS41n3pprd0/edit?usp=sharing)
 
