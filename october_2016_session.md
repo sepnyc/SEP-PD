@@ -67,5 +67,6 @@ Participants will plan a lesson on a topic of either "Scratch Custom Block"  or 
 * [Make a block video tutorial](https://www.youtube.com/watch?v=-q5vYECkNek)
 * [Functions and Procedures: BBC Bitesize](http://www.bbc.co.uk/education/guides/z9hykqt/revision)
 * [Computer Programming Curriculum Progress Check-in Sheet](https://drive.google.com/open?id=0B8ZcjuRP1lu5TTRpV1V4T3BVUXc)
+* [Scratch Screen Grid](https://drive.google.com/open?id=0B8ZcjuRP1lu5dUxjLWtmTGNzN2s)
 
 
