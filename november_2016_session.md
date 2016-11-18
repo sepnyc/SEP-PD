@@ -1,5 +1,5 @@
 # SEP PD
-## October 15, 2016
+## November 19, 2016
 
 ### Schedules:
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
@@ -10,9 +10,9 @@
 | ------| ------------- |
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
-9:30 AM |Advanced Scratch Pt. III!
+9:30 AM |Advanced Scratch Pt. III
 10:00 AM |
-10:30 AM | Session II
+10:30 AM |Session II
 11:00 AM |
 11:30 AM | 
 12:00 PM |LUNCH
