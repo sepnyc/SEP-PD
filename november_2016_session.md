@@ -68,4 +68,5 @@ Teacher’s choice: use this time to either work on lesson plans and present to 
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [Scratch](https://scratch.mit.edu/)
-* [SEP Scratch Studio](https://scratch.mit.edu/studios/3485133/)
+* [SEP November PD Scratch Studio](https://scratch.mit.edu/studios/3575994/)
+* [Kahoot - Functions](https://play.kahoot.it/#/k/97bf9024-a168-491f-84da-fde5658ebafb)
