@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |Research Alliance for NYC Schools Talk
-1:00 PM |SEP Teacher Meetup Info Session
+1:00 PM |Building & Growing Your Teacher Community
 1:30 PM |
 1:45 PM |CS4All In-School Hackathons
 2:00 PM |
@@ -40,13 +40,17 @@ Teachers will be introduced to the concept of variables in computer programming 
 *Presenter: Cheri Fancsali*
 *Room: 3213*
 
-**SEP Teacher Meetup Info Session**
+**Building & Growing Your Teacher Community**
 *Facilitator: Ally*
 *Room: 3213*
+
+[Slides](https://docs.google.com/presentation/d/1Hu1w97qFXV7FPR1Gqsi_GxRgNZqpNJGFFRVdnVu4r9Q/edit?usp=sharing)
 
 **CS4All In-School Hackathons**
 *Facilitator: Amna*
 *Room: 3213*
+
+[Slides](https://docs.google.com/presentation/d/1L6-zPmhdFbpN15cnfRfMxzyI9xfvyXgGNeJuGQzjEFc/edit?usp=sharing)
 
 Host a CS4ALL Hackathon at your school next month! No experience is necessary. In this session, we'll cover expectations, what the DOE can and can't provide for your school's event, as well as take an in-depth look at CS4ALL Hack Pack essentials like student worksheets, the teacher guide, and day-of slideshow.
 
@@ -58,7 +62,7 @@ Teacher’s choice: use this time to either work on lesson plans and present to 
 
 ## <a name="links">Software & Links</a>
 ***
-* [SEP November PD Materials]
+* [SEP November PD Materials](https://drive.google.com/drive/folders/0B8ZcjuRP1lu5VUMzMVROLVdoWmc?usp=sharing)
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
