@@ -36,6 +36,8 @@
 
 Teachers will be introduced to the concept of variables in computer programming and game design principles. Then, they will apply them in their Scratch games. This content is introduced in the SEP Computer Programming curriculum Unit 4, Learning Activity #1.
 
+[Slides](https://drive.google.com/open?id=1tUY5D0l1msivAQFNnFH_oViAefbA_E8WoiGOhPNo5QI)
+
 **Research Alliance for NYC Schools Talk**
 *Presenter: Cheri Fancsali*
 *Room: 3213*
