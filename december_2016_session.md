@@ -61,7 +61,7 @@ Teachers will be introduced to four new robotics challenges. After reviewing the
 
 ## <a name="links">Software & Links</a>
 ***
-* [SEP November PD Materials](https://drive.google.com/drive/folders/0B8ZcjuRP1lu5VUMzMVROLVdoWmc?usp=sharing)
+* [SEP December PD Materials]
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
