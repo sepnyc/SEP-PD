@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |Leveraging Students' Backgrounds to Learn Computational Practices / Lego Challenges
+1:00 PM |Leveraging Students' Backgrounds to Learn Computational Practices / Robotics Challenges
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -51,7 +51,7 @@ Teachers will explore the transition between block-based programming environment
 
 [Slides]
 
-**Lego Challenges**
+**Robotics Challenges**
 *Facilitator: EJ Park*
 *Room: 3403*
 
