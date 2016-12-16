@@ -37,7 +37,7 @@ HS teachers will be introduced to Python in this session. They’ll make connect
 
 **Let’s make a robot move and solve challenges**
 *Facilitator: EJ Park*
-*Room: 3203*
+*Room: 3403*
 
 MS teachers will review basics of LEGO robotics first, then learn more about programming robot’s actions. They will solve given challenges and have a chance to design their own.
 
@@ -53,7 +53,7 @@ Teachers will explore the transition between block-based programming environment
 
 **Lego Challenges**
 *Facilitator: EJ Park*
-*Room: 3203*
+*Room: 3403*
 
 Teachers will be introduced to four new robotics challenges. After reviewing them, they will try out 1-2 challenges then, modify them for their students or create new ones!
 
