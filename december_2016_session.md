@@ -1,5 +1,5 @@
 # SEP PD
-## November 19, 2016
+## December 17, 2016
 
 ### Schedules:
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
@@ -66,4 +66,3 @@ Teachers will be introduced to four new robotics challenges. After reviewing the
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 *   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
-*   [Scratch](https://scratch.mit.edu/)
