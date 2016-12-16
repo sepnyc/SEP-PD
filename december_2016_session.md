@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |Migrating across programming environments / Lego Challenges
+1:00 PM |Leveraging Students' Backgrounds to Learn Computational Practices / Lego Challenges
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -43,7 +43,7 @@ MS teachers will review basics of LEGO robotics first, then learn more about pro
 
 [Slides]
 
-**Migrating across programming environments**
+**Leveraging Students' Backgrounds to Learn Computational Practices**
 *Facilitators: Sara Vogel and Francisco Cervantes*
 *Room: 3213*
 
