@@ -67,3 +67,5 @@ Teachers will be introduced to four new robotics challenges. After reviewing the
 * [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 * [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 * [Kahoot Quiz - Computational Concepts](https://play.kahoot.it/#/k/45d6d5e0-8eae-4b45-8030-0e3e7b709950)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
