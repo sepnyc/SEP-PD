@@ -41,7 +41,7 @@ HS teachers will be introduced to Python in this session. They’ll make connect
 
 MS teachers will review basics of LEGO robotics first, then learn more about programming robot’s actions. They will solve given challenges and have a chance to design their own.
 
-[Slides]
+[Slides](https://drive.google.com/open?id=1WUC0QZDDuzDjtOEluNOmBTfZauvJOK_swKM14-6xnKs) | [Unplugged Activity](https://drive.google.com/open?id=0B3omYkYPfQ0yRUtqdWsyNS03Y0E)
 
 **Leveraging Students' Backgrounds to Learn Computational Practices**
 *Facilitators: Sara Vogel and Francisco Cervantes*
@@ -57,11 +57,11 @@ Teachers will explore the transition between block-based programming environment
 
 Teachers will be introduced to four new robotics challenges. After reviewing them, they will try out 1-2 challenges then, modify them for their students or create new ones!
 
-[Slides]
+[Slides](https://drive.google.com/open?id=1zaVNjqeMYcGddfR9m1v-40sBlIGIC2x5pmylxCbpRp8) | [Challenges](https://drive.google.com/open?id=0B3omYkYPfQ0yNVNsVkM0RGMwR2M)
 
 ## <a name="links">Software & Links</a>
 ***
-* [SEP December PD Materials]
+* [SEP December PD Materials](https://drive.google.com/drive/folders/0B3omYkYPfQ0yWFYxMXBwTG4tTk0?usp=sharing)
 * [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 * [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 * [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
