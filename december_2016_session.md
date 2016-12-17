@@ -33,7 +33,7 @@
 
 HS teachers will be introduced to Python in this session. They’ll make connections to what they learned in Scratch and how these fundamentals will be expressed in Python which is text-based. Teachers will learn about data types to create their first program.
 
-[Slides]
+[Slides and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0ySTlteUxLRjJCZlU)
 
 **Let’s make a robot move and solve challenges**
 *Facilitator: EJ Park*
@@ -49,7 +49,7 @@ MS teachers will review basics of LEGO robotics first, then learn more about pro
 
 Teachers will explore the transition between block-based programming environments (Scratch) and syntax programming languages (Python) using the conceptual lens of translanguaging from bilingual education.
 
-[Slides]
+[Slides and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yMFRnNDF4QnpZdWc)
 
 **Robotics Challenges**
 *Facilitator: EJ Park*
@@ -62,7 +62,8 @@ Teachers will be introduced to four new robotics challenges. After reviewing the
 ## <a name="links">Software & Links</a>
 ***
 * [SEP December PD Materials]
-*   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
-*   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
-*   [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
-*   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
+* [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
+* [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+* [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
+* [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
+* [Kahoot Quiz - Computational Concepts](https://play.kahoot.it/#/k/45d6d5e0-8eae-4b45-8030-0e3e7b709950)
