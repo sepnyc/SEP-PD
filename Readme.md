@@ -10,11 +10,6 @@
 * [SEP December PD](https://github.com/sepnyc/SEP-PD/blob/master/december_2016_session.md)
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
 
-### [Software & Links](#links)
-
-
-<iframe src="https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## <a name="links">Software & Links</a>
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
