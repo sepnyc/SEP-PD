@@ -36,6 +36,8 @@
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
 
+Review of core topics from Part I (conditionals, variable assignment, datatypes, input) by finishing the ATM project.  Also, comments.
+
 **Let’s make a robot move and solve challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
 *Room: 3403*
@@ -45,6 +47,8 @@ MS teachers will review basics of LEGO robotics first, then learn more about pro
 **Intro to Python II**
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
+
+Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
 **Robotics Challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
