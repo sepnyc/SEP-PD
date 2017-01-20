@@ -12,12 +12,12 @@
 9:15 AM |Welcome
 9:30 AM |From Scratch to Python / Let’s make a robot move and solve challenges II
 10:00 AM |
-10:30 AM |Intro to Python I (revisited)
+10:30 AM |Intro to Python II
 11:00 AM |
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |Intro to Python II / Let’s make a robot move and solve challenges II (continued)
+1:00 PM |Intro to Python II (continued) / Let’s make a robot move and solve challenges II (continued)
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -28,21 +28,15 @@
 
 ## Workshop Descriptions
 ***
-**From Scratch to Python: teacher strategies for the CS classroom**
+**Scratch/Python teaching strategies**
 *Facilitator: Sarina Lim*
 *Room: 3213*
-
-**Intro to Python I (revisited)**
-*Facilitators: Tim Chen & Jose Olivares*
-*Room: 3213*
-
-Review of core topics from Part I (conditionals, variable assignment, datatypes, input) by finishing the ATM project.  Also, comments.
 
 **Intro to Python II**
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
 
-Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
+Review of core topics from Part I (conditionals, variable assignment, datatypes, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
 **Let’s make a robot move and solve challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
