@@ -1,5 +1,5 @@
 # SEP PD
-## December 17, 2016
+## January 21, 2017
 
 ### Schedules:
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
