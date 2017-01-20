@@ -35,13 +35,13 @@
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
 
-Review of core topics from Part I (conditionals, variable assignment, datatypes, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
+Review of core topics from Part I (conditionals, variable assignment, data types, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
 **Let’s make a robot move and solve challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
 *Room: 3403*
 
-MS teachers will review the computational concepts such as booleans, conditionals etc. first, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
+MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
 
 ## <a name="links">Software & Links</a>
 ***
