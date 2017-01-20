@@ -10,7 +10,7 @@
 | ------| ------------- |
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
-9:30 AM |From Scratch to Python / Let’s make a robot move and solve challenges II
+9:30 AM |Scratch->Python teaching strategies / Let’s make a robot move and solve challenges II
 10:00 AM |
 10:30 AM |Intro to Python II
 11:00 AM |
@@ -27,7 +27,7 @@
 
 ## Workshop Descriptions
 ***
-**Scratch/Python teaching strategies**
+**Scratch->Python teaching strategies**
 *Facilitator: Sarina Lim*
 *Room: 3213*
 
