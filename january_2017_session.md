@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |
-1:00 PM |Intro to Python II / Robotics Challenges II
+1:00 PM |Intro to Python II / Let’s make a robot move and solve challenges II (continued)
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -38,23 +38,18 @@
 
 Review of core topics from Part I (conditionals, variable assignment, datatypes, input) by finishing the ATM project.  Also, comments.
 
-**Let’s make a robot move and solve challenges II**
-*Facilitators: EJ Park & Francisco Cervantes*
-*Room: 3403*
-
-MS teachers will review basics of LEGO robotics first, then learn more about programming robot’s actions. They will solve given challenges and have a chance to design their own.
-
 **Intro to Python II**
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
 
 Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
-**Robotics Challenges II**
+**Let’s make a robot move and solve challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
 *Room: 3403*
 
-Teachers will be introduced to four new robotics challenges. After reviewing them, they will try out 1-2 challenges then, modify them for their students or create new ones!
+MS teachers will review the computational concepts such as booleans, conditionals etc. first, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
+
 
 ## <a name="links">Software & Links</a>
 ***
