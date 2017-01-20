@@ -22,7 +22,6 @@
 2:00 PM |
 2:30 PM |
 3:00 PM |
-3:15 PM |February Hackathon Info Session
 3:30 PM |Wrap-up + survey
 4:00 PM |
 
@@ -43,7 +42,6 @@ Review of core topics from Part I (conditionals, variable assignment, datatypes,
 *Room: 3403*
 
 MS teachers will review the computational concepts such as booleans, conditionals etc. first, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
-
 
 ## <a name="links">Software & Links</a>
 ***
