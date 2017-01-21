@@ -31,6 +31,8 @@
 *Facilitator: Sarina Lim*
 *Room: 3213*
 
+[Slides and Resources](http://tinyurl.com/jo56n46)
+
 **Intro to Python II**
 *Facilitators: Tim Chen & Jose Olivares*
 *Room: 3213*
