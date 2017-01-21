@@ -10,7 +10,7 @@
 | ------| ------------- |
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
-9:30 AM |Scratch->Python teaching strategies / Let’s make a robot move and solve challenges II
+9:30 AM |Connecting Scratch and Python / Let’s make a robot move and solve challenges II
 10:00 AM |
 10:30 AM |Intro to Python II
 11:00 AM |
@@ -27,11 +27,11 @@
 
 ## Workshop Descriptions
 ***
-**Scratch->Python teaching strategies**
+**Connecting Scratch and Python**
 *Facilitator: Sarina Lim*
 *Room: 3213*
 
-[Slides and Resources](http://tinyurl.com/jo56n46)
+[Slides and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0ybkJzT1dKT3pqWnc?usp=sharing)
 
 **Intro to Python II**
 *Facilitators: Tim Chen & Jose Olivares*
