@@ -39,13 +39,15 @@
 
 Review of core topics from Part I (conditionals, variable assignment, data types, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
-[Slides and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0yZzFrWTdremg0V1E?usp=sharing)
+[Slides, Activities, and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0yZzFrWTdremg0V1E?usp=sharing)
 
 **Let’s make a robot move and solve challenges II**
 *Facilitators: EJ Park & Francisco Cervantes*
 *Room: 3403*
 
 MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
+
+[Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yOUNXMTQwejh3bGs)
 
 ## <a name="links">Software & Links</a>
 ***
