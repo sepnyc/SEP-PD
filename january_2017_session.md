@@ -27,6 +27,12 @@
 
 ## Workshop Descriptions
 ***
+**General**
+
+* [Morning Slides](https://drive.google.com/open?id=0B3omYkYPfQ0ycVpKdmt3Tm82MTg)
+* [Afternoon Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yQVBTY1k3T3ViajQ)
+* [Prepping for the Mobile Apps Hackathon](https://drive.google.com/open?id=0B3omYkYPfQ0yR2lGTUQ4SXpYODA)
+
 **Connecting Scratch and Python**
 *Facilitator: Sarina Lim*
 *Room: 3213*
