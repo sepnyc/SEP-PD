@@ -17,7 +17,7 @@
 11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM | Design-a-thon Info Session
-1:00 PM |Intro to Python III (continued) / Let’s make a robot move and solve challenges III (continued)
+1:00 PM |Intro to Python III (continued) / Let’s make a robot move and solve challenges III (continued) / Intro to Arduino
 1:30 PM |
 2:00 PM |
 2:30 PM |
@@ -33,9 +33,8 @@
 * [Afternoon Slides]
 * [Design-a-thon Info Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yR2lGTUQ4SXpYODA)
 
-**Intro to Python II**
+**Intro to Python III**
 *Facilitators: Tim Chen & Jose Olivares*
-*Room: 3213*
 
 Review of core topics from Part I (conditionals, variable assignment, data types, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
 
@@ -43,9 +42,13 @@ Review of core topics from Part I (conditionals, variable assignment, data types
 
 **Let’s make a robot move and solve challenges III**
 *Facilitators: EJ Park*
-*Room: 3403*
 
 MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
+
+[Slides, Activities, and Resources]
+
+**Intro to Arduino**
+*Facilitator: Jose Olivares*
 
 [Slides, Activities, and Resources]
 
