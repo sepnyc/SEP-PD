@@ -36,19 +36,19 @@
 **Intro to Python III**
 *Facilitators: Tim Chen & Jose Olivares*
 
-Review of core topics from Part I (conditionals, variable assignment, data types, input) by finishing the ATM project.  Also, comments. Teachers will be introduced to "while loops" and "for loops" in Python by solving a series of unplugged and coding activities.
+Continuing on our Python journey, learning to define and use functions to organize and optimize code.
 
 [Slides, Activities, and Resources]
 
 **Let’s make a robot move and solve challenges III**
 *Facilitators: EJ Park*
 
-MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors. They will work on some unplugged activities and solve given challenges.
-
 [Slides, Activities, and Resources]
 
 **Intro to Arduino**
 *Facilitator: Jose Olivares*
+
+Via a series of hands-on activities participants will review basic Arduino concepts and go through a quick overview of the SEP Arduino curriculum units 2-3.
 
 [Slides, Activities, and Resources]
 
