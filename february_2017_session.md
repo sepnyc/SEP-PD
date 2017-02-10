@@ -31,7 +31,7 @@
 
 * [Morning Slides]
 * [Afternoon Slides]
-* [Design-a-thon Info Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yR2lGTUQ4SXpYODA)
+* [Design-a-thon Info Slides]
 
 **Intro to Python III**
 *Facilitators: Tim Chen & Jose Olivares*
