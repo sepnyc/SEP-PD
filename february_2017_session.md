@@ -43,6 +43,8 @@ Continuing on our Python journey, learning to define and use functions to organi
 **Let’s make a robot move and solve challenges III**
 *Facilitators: EJ Park*
 
+MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors like the color sensor as well as review the ultrasonic and touch sensor. They will work on some unplugged activities and solve given challenges.
+
 [Slides, Activities, and Resources]
 
 **Intro to Arduino**
