@@ -29,37 +29,37 @@
 ***
 **General**
 
-* [Morning Slides]
-* [Afternoon Slides]
-* [Design-a-thon Info Slides]
+* [Morning and Afternoon Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yT3U0TGF2WjI4ZUU)
+* [Design-a-thon Info Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yNm1rdkp5R2p5ZWM)
 
 **Intro to Python III**
 *Facilitators: Tim Chen & Jose Olivares*
 
 Continuing on our Python journey, learning to define and use functions to organize and optimize code.
 
-[Slides, Activities, and Resources]
+[Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0ycTROWXpDQ01PMnM)
 
 **Let’s make a robot move and solve challenges III**
 *Facilitators: EJ Park*
 
 MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors like the color sensor as well as review the ultrasonic and touch sensor. They will work on some unplugged activities and solve given challenges.
 
-[Slides, Activities, and Resources]
+[Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yYnNscklibHBMbms)
 
 **Intro to Arduino**
 *Facilitator: Jose Olivares*
 
 Via a series of hands-on activities participants will review basic Arduino concepts and go through a quick overview of the SEP Arduino curriculum units 2-3.
 
-[Slides, Activities, and Resources]
+[Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yWkVEaENFSVNwYWc)
 
 ## <a name="links">Software & Links</a>
 ***
-* [SEP February 2017 PD Materials]
+* [SEP February 2017 PD Materials](https://drive.google.com/open?id=0B3omYkYPfQ0yUlp2VEl1RzQ5R1U)
 * [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 * [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 * [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 * [Python Tutor - Realtime Debugging and Collaboration](http://pythontutor.com/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [Arduino Project Hub](https://create.arduino.cc/projecthub)
