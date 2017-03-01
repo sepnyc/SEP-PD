@@ -60,6 +60,6 @@ Via a series of hands-on activities participants will review basic Arduino conce
 * [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 * [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
 * [Python Tutor - Realtime Debugging and Collaboration](http://pythontutor.com/)
-* [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Arduino Project Hub](https://create.arduino.cc/projecthub)
