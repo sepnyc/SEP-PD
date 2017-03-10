@@ -33,7 +33,7 @@ Learn about Python lists, your first Python data structure!  Use it to create ei
 
 [Slides, Activities, and Resources]
 
-**Let’s make a robot move and solve challenges III**
+**Intro to web design I - HTML**
 *Facilitator: Jason Bisonnette*
 
 This session will focus on introducing what the Internet is, how protocols make the Internet work, and how web pages are designed and served to a user. Participants will go through the web design process, an unplugged activity and code their first page in HTML. 
