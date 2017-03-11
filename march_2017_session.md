@@ -23,7 +23,7 @@
 ***
 **General**
 
-* [Morning and Afternoon Slides]
+* [Morning and Afternoon Slides](https://drive.google.com/drive/folders/0B3omYkYPfQ0ybFpJa2Rpa3lrWXc?usp=sharing)
 * [Design-a-thon Hack Pack](https://drive.google.com/drive/folders/0B2e4AYYgjNCEZ0psR3Z0XzlCdlk?usp=sharing)
 
 **Intro to Python IV**
