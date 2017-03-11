@@ -24,7 +24,7 @@
 **General**
 
 * [Morning and Afternoon Slides]
-* [Design-a-thon Teacher Guide]
+* [Design-a-thon Hack Pack](https://drive.google.com/drive/folders/0B2e4AYYgjNCEZ0psR3Z0XzlCdlk?usp=sharing)
 
 **Intro to Python IV**
 *Facilitator: Tim Chen*
