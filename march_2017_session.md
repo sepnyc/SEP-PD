@@ -31,7 +31,7 @@
 
 Learn about Python lists, your first Python data structure!  Use it to create either Hangman, a Word Scrambler, or if you're feeling adventurous - Tic Tac Toe!
 
-[Slides, Activities, and Resources]
+[Slides, Activities, and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0yS2thQXhWdU5RYkk?usp=sharing)
 
 **Intro to web design I - HTML**
 *Facilitator: Jason Bisonnette*
@@ -42,7 +42,7 @@ This session will focus on introducing what the Internet is, how protocols make 
 
 ## <a name="links">Software & Links</a>
 ***
-* [SEP March 2017 PD Materials]
+* [SEP March 2017 PD Materials](https://drive.google.com/drive/folders/0B3omYkYPfQ0yUllpcWMzMWZxczQ?usp=sharing)
 * [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 * [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
 * [SEP curriculum calendar 2016-2017](https://docs.google.com/a/strongschools.nyc/document/d/10a8UPH6-v-aoAXGVo1c68VapsTHkJXgzROd6vStX6ZU/edit?usp=sharing)
