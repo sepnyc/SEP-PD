@@ -38,7 +38,7 @@ Learn about Python lists, your first Python data structure!  Use it to create ei
 
 This session will focus on introducing what the Internet is, how protocols make the Internet work, and how web pages are designed and served to a user. Participants will go through the web design process, an unplugged activity and code their first page in HTML. 
 
-[Slides, Activities, and Resources]
+[Slides, Activities, and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0yUUlLRVJmWmtnRDA?usp=sharing)
 
 ## <a name="links">Software & Links</a>
 ***
