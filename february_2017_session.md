@@ -31,21 +31,21 @@
 * [Design-a-thon Info Slides](https://drive.google.com/open?id=0B3omYkYPfQ0yNm1rdkp5R2p5ZWM)
 
 **Intro to Python III**
-*Facilitators: Tim Chen & Jose Olivares*
+* Facilitators: Tim Chen & Jose Olivares
 
 Continuing on our Python journey, learning to define and use functions to organize and optimize code.
 
 [Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0ycTROWXpDQ01PMnM)
 
 **Let’s make a robot move and solve challenges III**
-*Facilitators: EJ Park*
+* Facilitator: EJ Park
 
 MS teachers will review the programming fundamentals such as loops, booleans and conditionals, then learn more about programming the robot with sensors like the color sensor as well as review the ultrasonic and touch sensor. They will work on some unplugged activities and solve given challenges.
 
 [Slides, Activities, and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yYnNscklibHBMbms)
 
 **Intro to Arduino**
-*Facilitator: Jose Olivares*
+* Facilitator: Jose Olivares
 
 Via a series of hands-on activities participants will review basic Arduino concepts and go through a quick overview of the SEP Arduino curriculum units 2-3.
 
