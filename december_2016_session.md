@@ -18,6 +18,7 @@
 12:00 PM |LUNCH
 1:00 PM |Leveraging Students' Backgrounds to Learn Computational Practices / Robotics Challenges
 2:15 PM | BREAK
+2:30 PM | Session IV
 3:30 PM |Survey + announcements
 4:00 PM |
 
