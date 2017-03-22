@@ -11,23 +11,17 @@
 ## SEP Summer Institute Week 1
 July 11-15, 2016
 
-|| MONDAY  | TUESDAY        | WEDNESDAY | THURSDAY| FRIDAY
-| ------| ------------- |:-------------:| -----:|-----:|-----:|
+|Time | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY |
+| ----|--------|---------|-----------|----------|--------|
 | 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In
 9:15 AM |Welcome|Welcome / Unplugged|Welcome / Unplugged|Welcome / Unplugged|Welcome / Unplugged|
 9:30 AM |Welcome to SEP!|Review of Scratch and CS Fundamentals|See and build the Internet!|Intro to Javascript (Programming for the Web)|Intro to Lego Robotics|
-10:00 AM |
-10:30 AM|||Intro to web design (HTML/CSS)|
-11:00 AM |
-11:30 AM |
+10:15 AM | BREAK | BREAK | BREAK | BREAK | BREAK
+10:30 AM |Session II|Session II|Intro to web design (HTML/CSS)|Session II|Session II
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH|
-12:30 PM |
 1:00 PM |Intro to block-based programming: Scratch and CS Fundamentals| Scratch Lab|Intro to web design (HTML/CSS)|Intro to Javascript (Programming for the Web)|Intro to Lego Robotics|
-1:30 PM |
-2:00 PM ||||Web lab
-2:30 PM |
-3:00 PM |
-3:30 PM |
+2:15 PM | BREAK | BREAK | BREAK | Web Lab | BREAK
+3:30 PM | Survey + Announcements | Survey + Announcements | Survey + Announcements | Survey + Announcements | Survey + Announcements
 4:00 PM  |
 
 ## Workshop Descriptions
