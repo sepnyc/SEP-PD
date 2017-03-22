@@ -29,14 +29,14 @@
 * [Design-a-thon Hack Pack](https://drive.google.com/drive/folders/0B2e4AYYgjNCEZ0psR3Z0XzlCdlk?usp=sharing)
 
 **Intro to Python IV**
-*Facilitator: Tim Chen*
+* Facilitator: Tim Chen
 
 Learn about Python lists, your first Python data structure!  Use it to create either Hangman, a Word Scrambler, or if you're feeling adventurous - Tic Tac Toe!
 
 [Slides, Activities, and Resources](https://drive.google.com/drive/folders/0B3omYkYPfQ0yS2thQXhWdU5RYkk?usp=sharing)
 
 **Intro to web design I - HTML**
-*Facilitator: Jason Bisonnette*
+* Facilitator: Jason Bisonnette
 
 This session will focus on introducing what the Internet is, how protocols make the Internet work, and how web pages are designed and served to a user. Participants will go through the web design process, an unplugged activity and code their first page in HTML. 
 
