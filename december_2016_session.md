@@ -25,32 +25,32 @@
 ## Workshop Descriptions
 ***
 **Intro to Python Pt. 1**
-*Facilitator: Tim Chen*
-*Room: 3213*
+* Facilitator: Tim Chen
+* Room: 3213
 
 HS teachers will be introduced to Python in this session. They’ll make connections to what they learned in Scratch and how these fundamentals will be expressed in Python which is text-based. Teachers will learn about data types to create their first program.
 
 [Slides and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0ySTlteUxLRjJCZlU)
 
 **Let’s make a robot move and solve challenges**
-*Facilitator: EJ Park*
-*Room: 3403*
+* Facilitator: EJ Park
+* Room: 3403
 
 MS teachers will review basics of LEGO robotics first, then learn more about programming robot’s actions. They will solve given challenges and have a chance to design their own.
 
 [Slides](https://drive.google.com/open?id=1WUC0QZDDuzDjtOEluNOmBTfZauvJOK_swKM14-6xnKs) | [Unplugged Activity](https://drive.google.com/open?id=0B3omYkYPfQ0yRUtqdWsyNS03Y0E)
 
 **Leveraging Students' Backgrounds to Learn Computational Practices**
-*Facilitators: Sara Vogel and Francisco Cervantes*
-*Room: 3213*
+* Facilitators: Sara Vogel and Francisco Cervantes
+* Room: 3213
 
 Teachers will explore the transition between block-based programming environments (Scratch) and syntax programming languages (Python) using the conceptual lens of translanguaging from bilingual education.
 
 [Slides and Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yMFRnNDF4QnpZdWc)
 
 **Robotics Challenges**
-*Facilitator: EJ Park*
-*Room: 3403*
+* Facilitator: EJ Park
+* Room: 3403
 
 Teachers will be introduced to four new robotics challenges. After reviewing them, they will try out 1-2 challenges then, modify them for their students or create new ones!
 
