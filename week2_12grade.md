@@ -13,5 +13,5 @@ July 18-21, 2016
 1:30 PM |
 2:15 PM | BREAK | BREAK | BREAK | BREAK | BREAK
 2:30 PM | P5 Lab | P5 Lab | P5 Lab | P5 Lab | P5 Lab
-3:30 PM |
+3:30 PM | Survey + Announcements | Survey + Announcements | Survey + Announcements |Survey + Announcements | Survey + Announcements
 4:00 PM  |
