@@ -18,27 +18,27 @@ July 18-22, 2016
 
 ## Workshop Descriptions
 ***
-###Days 6-7:
+### Days 6-7:
 
 **Lesson Planning Party**
-*Facilitators: SEP Staff*
-*Room: 820*
+* Facilitators: SEP Staff*
+* Room: 820*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1yk3502TXoVDZK5kXIIkBHR-VRl6cRPjX-cAUIEGkN0o/edit?usp=sharing)
 
 From Monday through Thursday, teachers will meet in groups to work on a 15-minute mini lesson addressing one of the SEP units. This mini lesson will be then presented on Friday to their peers and to a group of SEP cohort 1 teachers.
 
 **Paper Circuits**
-*Facilitators: Jose and Matt*
-*Room: 820*
+* Facilitators: Jose and Matt*
+* Room: 820*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1NQ2Di4PVGhurg-o_UjsZzBrJooxAwAe_RqKR8mFqk64/edit?usp=sharing)
 
 In this workshop, participants will learn the basics of electricity and using simple materials like copper tape, LEDs, coin cell batteries and paper, they'll create their first working circuit on paper.
 
 **Intro to Physical Computing: Arduino**
-*Facilitator: Matt Boyle*
-*Room: 820*
+* Facilitator: Matt Boyle*
+* Room: 820*
 
 Monday
 
@@ -54,10 +54,10 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 
 **Arduino Lab**
-*Facilitator: Matt Boyle*
-*Room: 820*
+* Facilitator: Matt Boyle*
+* Room: 820*
 
-###Day 8:
+### Day 8:
 
 **Computer Science Teaching Strategies**
 *Facilitators: Tim Chen and Christa Quint*
@@ -67,26 +67,26 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 
 **CS Lesson Demo**
-*Facilitator: Ben SK*
-*Room: 820*
+* Facilitator: Ben SK*
+* Room: 820*
 
 [Scratch Lesson](https://docs.google.com/presentation/d/1GIksaQMp1V_CxZcZNW-7UU7KyTQPi84E-YWggYOqxWY/edit?usp=sharing) | [Javascript Lesson](https://docs.google.com/presentation/d/1PB1c3xGxt9706-eDEtLLxEpNYM5ttPVsJ05j4iIPUfU/edit?usp=sharing)
 
 **Google Classroom + Assessment Tools**
-*Facilitator: Ben SK*
-*Room: 820*
+* Facilitator: Ben SK*
+* Room: 820*
 
-###Day 9:
+### Day 9:
 
 **SEP and CS Implementation**
-*Facilitator: Raquel and Matt Boyle*
-*Room: 820*
+* Facilitator: Raquel and Matt Boyle*
+* Room: 820*
 
 [Raquel's slides](https://docs.google.com/presentation/d/1I5Kx_HbvBqQXNRU6pAaKX1R3OgbI7fQ6t5MMS64tnr0/edit?usp=sharing) | [Matt's slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1WrUkeOwT0heZWZB2WqWpfW3dKrPiVr2RQLQAqMKjA-g/edit?usp=sharing)
 
 **Teaching CS to ELLs**
-*Facilitator: Ariadna Phillips-Santos*
-*Room: 820*
+* Facilitator: Ariadna Phillips-Santos*
+* Room: 820*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1yd3-Ic_r487MU1UJQ4A5_2D1FVQijy2zbvRbojQ9eVU/edit?usp=sharing) | [Resources](http://bit.ly/2aclh6S)
 
@@ -96,7 +96,7 @@ On the second day, teachers will explore the SIK Guide, build another project (i
 
 [Slides](https://docs.google.com/presentation/d/1hL-VyZkavB1bgphF5ojT551JJlJt_L2P4TGLeNiA7aA/edit#slide=id.g10d5bd1038_1_0)
 
-###Day 10:
+### Day 10:
 
 **Mini lesson demo + teacher feedback**
 *Facilitators: Ben SK, Tim Chen, Matt Boyle and Christa Quint*
@@ -111,7 +111,7 @@ An informal meeting of teachers to develop their first lesson of the year as wel
 
 [Google Classroom Resources](https://drive.google.com/a/strongschools.nyc/folderview?id=0B3omYkYPfQ0yZFd0YTZfNDlNSkU&usp=sharing)
 
-##Software & Links
+## Software & Links
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
