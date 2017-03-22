@@ -2,22 +2,24 @@
 ## October 15, 2016
 
 ### Schedules:
-* [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
+* [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York)
 
 ### [Software & Links](#links)
 
-|| AGENDA
-| ------| ------------- |
-| 9:00 AM |Breakfast /Sign In
-9:15 AM |Welcome
-9:30 AM |Advanced Scratch Pt. II!
+### Agenda
+
+|Time | Activity |
+| ----| ---------|
+9:00 AM | Breakfast /Sign In
+9:15 AM | Welcome
+9:30 AM | Advanced Scratch Pt. II!
 10:00 AM |
-10:30 AM| Session II
+10:30 AM | Session II
 11:00 AM |
 11:30 AM | 
-12:00 PM |LUNCH
+12:00 PM | LUNCH
 12:30 PM |
-1:00 PM |Teacher Learner Observer Model
+1:00 PM | Teacher Learner Observer Model
 1:30 PM |
 2:00 PM |
 2:30 PM |
