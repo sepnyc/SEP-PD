@@ -29,8 +29,8 @@ September 17, 2016
 ### Cohort 2 (6th and 9th):
 
 **Advanced Scratch**
-*Facilitator: Tim Chen*
-*Room: 3213*
+* Facilitator: Tim Chen
+* Room: 3213
 
 [Slides](https://docs.google.com/presentation/d/1apIh0ct3ZFODNAictfTj98DhTvqoMIanNVUQh45g6kU/edit?usp=sharing)
 
@@ -39,16 +39,16 @@ Participants will review and expand on their Scratch knowledge, solidify their u
 ### Cohort 1 (12th grade):
 
 **Get Confident with P5!**
-*Facilitator: Sharon De La Cruz*
-*Room: 3204*
+* Facilitator: Sharon De La Cruz
+* Room: 3204
 
 Participants will review and expand on their P5 knowledge, solidify their understanding of basic CS fundamentals (loops, conditionals, booleans) and will work on a visual project - artistic, narrative, and/or interactive - to apply these concepts. This workshop is intended for SEP 12th grade teachers who received a basic intro to P5 in July 2017.
 
 ### All cohorts:
 
 **Assessment Tools and Rubrics for CS**
-*Facilitator: Lionel Bergeron*
-*Room: 3213*
+* Facilitator: Lionel Bergeron
+* Room: 3213
 
 [Slides](https://docs.google.com/presentation/d/19p-_T99PfTxiqcCRNd192yvpAXMVG69-ETA5nSG1ehk/edit?usp=sharing)
 
