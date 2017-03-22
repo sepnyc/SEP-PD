@@ -10,7 +10,6 @@ July 18-21, 2016
 9:30 AM |Intro to P5 (fundamentals review)|Functions in P5|Intro to P5 objects|Intro to p5 arrays|
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|
 1:00 PM |Intro to P5 (fundamentals review)|P5 Lab|P5 Lab|P5 Lab|Dan Shiffman Talk
-1:30 PM |
 2:15 PM | BREAK | BREAK | BREAK | BREAK | BREAK
 2:30 PM | P5 Lab | P5 Lab | P5 Lab | P5 Lab | P5 Lab
 3:30 PM | Survey + Announcements | Survey + Announcements | Survey + Announcements |Survey + Announcements | Survey + Announcements
