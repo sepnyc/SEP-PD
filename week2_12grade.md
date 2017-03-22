@@ -5,7 +5,7 @@ July 18-21, 2016
 
 |Time | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY |
 | ----|--------|---------|-----------|----------|--------|
-| 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|
+| 9:00 AM |Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In|Breakfast /Sign In| Breakfast /Sign In|
 9:15 AM |Welcome|Welcome / Unplugged|Welcome / Unplugged|Welcome / Unplugged|Welcome | 
 9:30 AM |Intro to P5 (fundamentals review)|Functions in P5|Intro to P5 objects|Intro to p5 arrays|
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|
