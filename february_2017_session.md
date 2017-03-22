@@ -18,7 +18,7 @@
 12:00 PM |LUNCH
 12:30 PM | Design-a-thon Info Session
 1:00 PM |Intro to Python III (continued) / Let’s make a robot move and solve challenges III (continued) / Intro to Arduino
-2:15 PM |
+2:15 PM | BREAK
 2:30 PM | Session IV
 3:30 PM |Wrap-up + survey
 4:00 PM |
