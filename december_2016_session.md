@@ -13,11 +13,11 @@
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
 9:30 AM |Intro to Python / Let’s make a robot move and solve challenges
-10:15 AM | Break
+10:15 AM | BREAK
 10:30 AM |Session II
 12:00 PM |LUNCH
 1:00 PM |Leveraging Students' Backgrounds to Learn Computational Practices / Robotics Challenges
-2:15 PM | Break
+2:15 PM | BREAK
 3:30 PM |Survey + announcements
 4:00 PM |
 
