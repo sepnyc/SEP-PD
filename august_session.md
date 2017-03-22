@@ -28,20 +28,20 @@ August 22-24, 2016
 ***
 ### Day 1:
 **What is SEP?**
-*Facilitators: Don, Raquel and José*
-*Room: 817*
+* Facilitators: Don, Raquel and José*
+* Room: 817*
 
 Meet the SEP team and learn more about the program, training offerings, curriculum resources and student community events.
 
 **What is Code?**
-*Facilitators: Don and José*
-*Room: 817*
+* Facilitators: Don and José*
+* Room: 817*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1GoWPtF8mm07lLA7c4EYjZWYRIs_bG5nzAeESAyuS_Fg/edit?usp=sharing)
 
 **Intro to block-based programming: Scratch and CS fundamentals**
-*Facilitators: Don and José*
-*Room: 817*
+* Facilitators: Don and José*
+* Room: 817*
 
 [Slides Morning](https://docs.google.com/a/strongschools.nyc/presentation/d/1pxf1QbYDoZBdQFgWHUlTp9_UtHpt234rJiA-05xYJh0/edit?usp=sharing) | [Slides Afternoon](https://docs.google.com/a/strongschools.nyc/presentation/d/1DTX2LyCtTTXA_eZ41W5l80J7snXNTu-20WSg4Qk6iYU/edit?usp=sharing)
 
@@ -50,8 +50,8 @@ In this workshop participants will be introduced to coding and computer science 
 ### Day 2:
 
 **Intro to web design: HTML & CSS**
-*Facilitators: Dan, Felix and Sandy*
-*Room: 817*
+* Facilitators: Dan, Felix and Sandy*
+* Room: 817*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1KFutHH8lwFRMLgp-UaIhf4kVJn1VmJPzcRrSGZlENqc/edit?usp=sharing)
 
@@ -60,8 +60,8 @@ Discuss what make the internet tick. Learn the basics of HTML and CSS, the langu
 ### Day 3:
 
 **Intro to Lego Robotics**
-*Facilitators: EJ Park and José*
-*Room: 817*
+* Facilitators: EJ Park and José*
+* Room: 817*
 
 [Slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1xkGHRCZW_V8l4gN5ovj6dm_LpXjnn5IxwlGneXj8PMQ/edit?usp=sharing)
 
