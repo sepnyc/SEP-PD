@@ -6,23 +6,21 @@
 
 ### [Software & Links](#links)
 
-|| AGENDA
-| ------| ------------- |
+### Agenda
+
+|Time | Activity |
+| ----| ---------|
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
 9:30 AM |Advanced Scratch Pt. III
-10:00 AM |
+10:15 AM |BREAK
 10:30 AM |Session II
-11:00 AM |
-11:30 AM | 
 12:00 PM |LUNCH
 12:30 PM |Research Alliance for NYC Schools Talk
 1:00 PM |Building & Growing Your Teacher Community
-1:30 PM |
 1:45 PM |CS4All In-School Hackathons
-2:00 PM |
+2:15 PM | BREAK
 2:30 PM |Planning + Teacher Feedback
-3:00 PM |
 3:30 PM |Survey + announcements
 4:00 PM |
 
