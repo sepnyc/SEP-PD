@@ -6,8 +6,10 @@
 
 ### [Software & Links](#links)
 
-|| AGENDA
-| ------| ------------- |
+### Agenda
+
+|Time | Activity |
+| ----| ---------|
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
 9:30 AM |Intro to Python III / Let’s make a robot move and solve challenges III
