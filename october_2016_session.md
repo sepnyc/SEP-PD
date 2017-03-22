@@ -27,21 +27,19 @@
 ### Cohort 2 (6th and 9th):
 
 **Advanced Scratch Pt. II**
-*Facilitators: EJ Park and Jose Olivares*
-*Room: 3213*
+* Facilitators: EJ Park and Jose Olivares
+* Room: 3213
 
 [Slides](https://docs.google.com/presentation/d/1xT4hkbTD0606j2Cq1LaRvcwTmBaxXIcymGubu_sMLVI/edit?usp=sharing)
-
 [Functions - Unplugged Activity](https://drive.google.com/open?id=0B8ZcjuRP1lu5ZDJXUHZVSnI3cjA)
 
 Participants will gain a better understanding of functions in computer programming and will learn how to create custom blocks in Scratch via a hands-on project. 
 
 **Teacher Learner Observer Model**
-*Facilitator: Alana Aaron and EJ Park*
-*Room: 3213*
+* Facilitator: Alana Aaron and EJ Park
+* Room: 3213
 
 [Slides](https://drive.google.com/open?id=1pVX_5mN58de8x1wo7NBKhbhbL2TcytQpCle21RYX2bQ)
-
 [Teacher Learner Observer Model Resources](https://drive.google.com/open?id=0B8ZcjuRP1lu5SmpVMHVCd0pEQnc)
 
 Participants will plan a lesson on a topic of either "Scratch Custom Block"  or "Scratch Project Development" and demonstrate the lesson by using the Teacher Learner Observer (TLO) model. The TLO model is used to plan and teach a lesson from a particular curriculum, just like it would happen in the classroom. Then it’s followed up by a discussion of the lesson that was modeled.
