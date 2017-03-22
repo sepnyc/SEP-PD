@@ -13,17 +13,13 @@
 | 9:00 AM |Breakfast /Sign In
 9:15 AM |Welcome
 9:30 AM |Intro to Python III / Let’s make a robot move and solve challenges III
-10:00 AM |
-10:30 AM |
-11:00 AM |
-11:30 AM | 
+10:15 AM | BREAK
+10:30 AM | Session II
 12:00 PM |LUNCH
 12:30 PM | Design-a-thon Info Session
 1:00 PM |Intro to Python III (continued) / Let’s make a robot move and solve challenges III (continued) / Intro to Arduino
-1:30 PM |
-2:00 PM |
-2:30 PM |
-3:00 PM |
+2:15 PM |
+2:30 PM | Session IV
 3:30 PM |Wrap-up + survey
 4:00 PM |
 
