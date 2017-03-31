@@ -31,9 +31,9 @@
 **Intro to web design II - HTML/CSS**
 * Facilitators: EJ and José
 
-(description)
+In this session participants will review HTML tags, practice HTML and be introduced to basic CSS selectors to modify and style their websites via a hands-on project.
 
-[Slides, Activities, and Resources]
+* [Slides, Activities, and Resources]
 
 ## <a name="links">Software & Links</a>
 ***
