@@ -11,6 +11,8 @@
 * [SEP January PD](https://github.com/sepnyc/SEP-PD/blob/master/january_2017_session.md)
 * [SEP February PD](https://github.com/sepnyc/SEP-PD/blob/master/february_2017_session.md)
 * [SEP March PD](https://github.com/sepnyc/SEP-PD/blob/master/march_2017_session.md)
+* [SEP April PD](https://github.com/sepnyc/SEP-PD/blob/master/april_2017_session.md)
+* [SEP May PD](https://github.com/sepnyc/SEP-PD/blob/master/may_2017_session.md)
 * [SEP 2016-17 PD Dates](https://drive.google.com/open?id=1scIhCYFxiCcKbgI1CG4HbLP8kZ7sSzzJVxxi3erTzkc) or subscribe to the [SEP PD Google Calendar](https://calendar.google.com/calendar/embed?src=strongschools.nyc_p8ub77g79n2k4f4ufi238pjh6k%40group.calendar.google.com&ctz=America/New_York) 
 
 ## <a name="links">Software & Links</a>
