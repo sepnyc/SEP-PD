@@ -24,21 +24,19 @@
 ***
 **General**
 
-* [Morning and Afternoon Slides]
+* [Morning and Afternoon Slides](https://drive.google.com/open?id=1K5RT2ECFpfZFpqnFKDdTFbKPM6FmuphNKUaaz3xZ-Po)
 
 **Intro to web design III - CSS**
 * Facilitators: José and EJ
 
 In this session participants will review div tags, will be introduced to the CSS box model and will create an online storefront landing page.
 
-* [Slides, Activities, and Resources]
+* [Slides, Activities, and Resources](https://drive.google.com/open?id=1XvnSfdc0dqXNDUi_BsmDDHIzrg95euqc_x2OOjnHiU0)
 
 **Intro to web design III - CSS + Javascript**
 * Facilitators: Tim and Christa
 
 In this session participants will review div tags, will be introduced to the CSS box model, and will create a simple Javascript project.
-
-* [Slides, Activities, and Resources]
 
 **SEP 2016-17 Reflection Activity**
 * Facilitators: CS4All + TYTHE design team (Kris & Tamara)
