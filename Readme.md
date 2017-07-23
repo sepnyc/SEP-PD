@@ -1,6 +1,9 @@
 # SEP Professional Development
 ### Schedules:
 
+* [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0ya2p6N2NpSndSb28)
+* [SEP Curriculum Calendar 2017-2018](https://drive.google.com/open?id=1tnvlHdIT_-7ACauHstNih9gdVIMJRoN4MNj_qMnnzM4)
+
 #### 2016-2017
 
 * [SEP Summer Institute Week 1](https://github.com/sepnyc/SEP-PD/blob/master/week1.md)
