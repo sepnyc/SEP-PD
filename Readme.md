@@ -27,8 +27,8 @@
 ## <a name="links">Resources</a>
 ***
 *   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
-*   [SEP curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
-* [SEP PD materials](https://drive.google.com/drive/folders/0B8D2ft9M8qQCYXY2V3VndWNob0E?usp=sharing)
+*   [SEP Curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+*   [SEP PD Materials](https://drive.google.com/drive/folders/0B8D2ft9M8qQCYXY2V3VndWNob0E?usp=sharing)
 *   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
 *   [CS Unplugged](http://csunplugged.org/)
 *   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
