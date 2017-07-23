@@ -1,7 +1,7 @@
-# SEP Professional Development 2016
+# SEP Professional Development
 ### Schedules:
 
-**2017-2016 SY
+#### 2016-2017
 
 * [SEP Summer Institute Week 1](https://github.com/sepnyc/SEP-PD/blob/master/week1.md)
 * [SEP Summer Institute Week 2 for new teachers](https://github.com/sepnyc/SEP-PD/blob/master/week2.md)
@@ -17,10 +17,9 @@
 * [SEP April PD](https://github.com/sepnyc/SEP-PD/blob/master/april_2017_session.md)
 * [SEP May PD](https://github.com/sepnyc/SEP-PD/blob/master/may_2017_session.md)
 
-**2017-2018 SY
+#### 2017-2018
 
 * [SEP Summer Institute July 2017](https://github.com/sepnyc/SEP-PD/blob/master/july_2017.md)
-
 
 ## <a name="links">Resources</a>
 ***
