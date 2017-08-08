@@ -67,7 +67,13 @@ Description:
 ## <a name="thursday">Thursday</a>
 
 **MS Teacher's Choice (6th grade)**
-* Facilitators: José and 
+* Facilitators: José
+* Room:
+
+* [Slides](https://drive.google.com/open?id=1Ot6wFhXXs9T-nKhV4rCupbMWtc8i043NzGBfsqO9TX0)
+
+**Scratch Student Goals Design session (6th grade)**
+* Facilitators: José
 * Room:
 
 * [Slides](https://drive.google.com/open?id=1Ot6wFhXXs9T-nKhV4rCupbMWtc8i043NzGBfsqO9TX0)
@@ -83,7 +89,7 @@ Description:
 ## <a name="friday">Friday</a>
 
 **TLO planning and presentations (6th grade)**
-* Facilitators: José and
+* Facilitators: José
 * Room:
 
 * [TLO Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yaXZwSGhQNXJLOXM)
