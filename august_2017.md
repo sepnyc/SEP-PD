@@ -34,16 +34,22 @@ August 14-18, 2017
 ## <a name="monday">Monday</a>
 
 **Web Design 4 All**
-* Facilitators: Christa and José
-* Room:
+* Facilitators: Christa, José, and Ritam
+* Room: 1203
 
 Description:
+
+In this workshop participants will be introduced to select learning activities of the web design curriculum. Participants will build a website to document their projects throughout the week and they'll be provided with three learning options including a flipped classroom approach.
+
+* [Slides]()
 
 ## <a name="tuesday">Tuesday</a>
 
 **Intro to Scratch and Computational Thinking (6th and 9th grade)**
-* Facilitators: José, Aankit and Ritam
-* Room:
+* Facilitators: José, Aankit, and Ritam
+* Room: 1203
+
+Participants will be introduced to computational concepts and practices via hands-on activities from unit 1 of the Scratch curriculum including unplugged activities and interactive collages using the block-based programming environment Scratch. 
 
 * [Slides]()
 
@@ -53,8 +59,9 @@ Description:
 * Facilitators: Christa and José 
 * Room:
 
-* [Slides](https://drive.google.com/open?id=1xB77DY0eeoDSwUi5DCwZhXBzeK4uZer_fr_ntznpQME)
-* [Resources from Matt](https://drive.google.com/open?id=0B3omYkYPfQ0yVEdOZmJiSTZNZEk)
+In this workshop participants will explore and build select projects from the Lego Robotics curriculum. From setting up software to building robots with sensors, this workshop will help gain comfort with block-based programming using the Mindstorms platform.
+
+* [Slides]()
 
 ---
 
