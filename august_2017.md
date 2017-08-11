@@ -69,7 +69,9 @@ In this workshop participants will explore and build select projects from the Le
 * Facilitators: Tim and Ritam
 * Room: 
 
-* [Slides](https://drive.google.com/open?id=1182g5GbeGDHIWlBs-XJ8tQeLQzqb9YcLy2lfEmUJUD4)
+In this workshop, articipants will review and apply CS concepts to write programs using the Python programming environment.They will gain a comfort with text based programming and create working examples for lesson development.
+
+* [Slides]()
 
 ## <a name="thursday">Thursday</a>
 
@@ -77,13 +79,13 @@ In this workshop participants will explore and build select projects from the Le
 * Facilitators: José
 * Room:
 
-* [Slides](https://drive.google.com/open?id=1Ot6wFhXXs9T-nKhV4rCupbMWtc8i043NzGBfsqO9TX0)
+* [Slides]()
 
 **Scratch Student Goals Design session (6th grade)**
 * Facilitators: José
 * Room:
 
-* [Slides](https://drive.google.com/open?id=1Ot6wFhXXs9T-nKhV4rCupbMWtc8i043NzGBfsqO9TX0)
+* [Slides]()
 
 ---
 
