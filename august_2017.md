@@ -41,7 +41,8 @@ Description:
 
 In this workshop participants will be introduced to select learning activities of the web design curriculum. Participants will build a website to document their projects throughout the week and they'll be provided with three learning options including a flipped classroom approach.
 
-* [Slides]()
+* [Slides](https://drive.google.com/open?id=1ydKCcWOZ7cbXUaOShNuqCs_5qVBSOf60ukThG5sd1P0)
+* [Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yamlzRndvc2x3MDg)
 
 ## <a name="tuesday">Tuesday</a>
 
