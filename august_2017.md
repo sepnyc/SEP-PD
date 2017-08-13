@@ -74,15 +74,21 @@ In this workshop, articipants will review and apply CS concepts to write program
 * Facilitators: José
 * Room: 1/205
 
+Participants will use this time to develop additional projects, expand on existing projects or explore additional concepts from the following topics: Scratch, Lego Robotics and Web Design. 
+
 **Scratch Student Goals Design session (6th grade)**
 * Facilitators: José
 * Room: 1/205
+
+In this workshop, participants will use a backwards design approach to establish end goals for their students in Scratch. Teachers will be looking at the final project from this topic and design a plan to cover the content students will need to know to successfully complete this project.
 
 ---
 
 **Intro to Python Pt. II + Learner's Workbook (9th grade)**
 * Facilitators: Tim and Ritam 
 * Room:1/203
+
+Participants will explore and complete select activities from unit 2 of the Python curriculum covering additional CS concepts. By using the learner's wokbook resource, teachers will then adapt or work on a new project to document their work and gain a better understanding on how to assess student progress.
 
 ## <a name="friday">Friday</a>
 
