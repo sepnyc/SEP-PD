@@ -29,7 +29,7 @@ August 14-18, 2017
 ## Workshop Descriptions
 ***
 ###  General:
-[General info + daily survey slides]()
+[General info + daily survey slides](https://drive.google.com/open?id=1Z6Dmu8_OfjGwPjy1s1UE2bYY992TnHBp-0DgvfnCI9g)
 
 ## <a name="monday">Monday</a>
 
