@@ -52,8 +52,6 @@ In this workshop participants will be introduced to select learning activities o
 
 Participants will be introduced to computational concepts and practices via hands-on activities from unit 1 of the Scratch curriculum including unplugged activities and interactive collages using the block-based programming environment Scratch. 
 
-* [Slides]()
-
 ## <a name="wednesday">Wednesday</a>
 
 **Intro to Lego Robotics (6th grade)**
@@ -61,8 +59,6 @@ Participants will be introduced to computational concepts and practices via hand
 * Room: 1/205
 
 In this workshop participants will explore and build select projects from the Lego Robotics curriculum. From setting up software to building robots with sensors, this workshop will help gain comfort with block-based programming using the Mindstorms platform.
-
-* [Slides]()
 
 ---
 
@@ -72,29 +68,21 @@ In this workshop participants will explore and build select projects from the Le
 
 In this workshop, articipants will review and apply CS concepts to write programs using the Python programming environment.They will gain a comfort with text based programming and create working examples for lesson development.
 
-* [Slides]()
-
 ## <a name="thursday">Thursday</a>
 
-**MS Teacher's Choice (6th grade)**
+**MS Teacher's Choice Project Development(6th grade)**
 * Facilitators: José
 * Room: 1/205
-
-* [Slides]()
 
 **Scratch Student Goals Design session (6th grade)**
 * Facilitators: José
 * Room: 1/205
-
-* [Slides]()
 
 ---
 
 **Intro to Python Pt. II + Learner's Workbook (9th grade)**
 * Facilitators: Tim and Ritam 
 * Room:1/203
-
-* [Slides]()
 
 ## <a name="friday">Friday</a>
 
@@ -116,7 +104,7 @@ In this workshop, articipants will review and apply CS concepts to write program
 
 **Digital Literacy basics**
 * Facilitators: SEP staff
-* Room:
+* Room: 1/205
 
 * [Slides](https://docs.google.com/presentation/d/1kUK1-auiuAKJ2u6R-pgZSrfCslxlrAC8Ie56VKRu5WA/edit?usp=sharing)
 
