@@ -52,6 +52,11 @@ In this workshop participants will be introduced to select learning activities o
 
 Participants will be introduced to computational concepts and practices via hands-on activities from unit 1 of the Scratch curriculum including unplugged activities and interactive collages using the block-based programming environment Scratch. 
 
+* [Scratch Overview](https://docs.google.com/presentation/d/1d4K6IubmkTpvsFEyvZd3B7X6mTLis-RU0LFIcuTqjAk/edit?usp=sharing)
+* [Scratch Unit 1 - LA 3 & 4](https://docs.google.com/presentation/d/1OQlsSDBv1vd1muRGXhp69S00j2mlzoHh1flXEVwDIUY/edit?usp=sharing) 
+* [Scratch Unit 1 - LA 5 Final Project](https://docs.google.com/presentation/d/1fcEYRol2XES1b-iLkhgJToXoCwy0UFO0OlSNvcZnjS4/edit?usp=sharing)
+* [Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yQUpReGREcUdiUGs)
+
 ## <a name="wednesday">Wednesday</a>
 
 **Intro to Lego Robotics (6th grade)**
