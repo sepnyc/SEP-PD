@@ -79,13 +79,16 @@ Participants will continue working on Scratch projects from the SEP curriculum i
 
 In this workshop, articipants will review and apply CS concepts to write programs using the Python programming environment.They will gain a comfort with text based programming and create working examples for lesson development.
 
+* [Unit 1 Slides & Activities](https://drive.google.com/open?id=0B3omYkYPfQ0yZzFNVVNiakUwQk0)
+* [Unit 2 Activities](https://drive.google.com/open?id=0B3omYkYPfQ0yRHRReWpiS2dvU00)
+
 ## <a name="thursday">Thursday</a>
 
 **MS Teacher's Choice Project Development(6th grade)**
 * Facilitators: José
 * Room: 1/205
 
-Participants will use this time to develop additional projects, expand on existing projects or explore additional concepts from the following topics: Scratch, Lego Robotics and Web Design. 
+Participants will use this time to develop additional projects, expand on existing projects or explore additional concepts from the following topics: Scratch and Web Design. 
 
 **Scratch Student Goals Design session (6th grade)**
 * Facilitators: José
