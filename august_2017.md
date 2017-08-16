@@ -59,11 +59,17 @@ Participants will be introduced to computational concepts and practices via hand
 
 ## <a name="wednesday">Wednesday</a>
 
-**Intro to Lego Robotics (6th grade)**
+**Intro to Scratch and Computational Thinking (6th and 9th grade) Pt. II**
 * Facilitators: Christa and José 
 * Room: 1/205
 
-In this workshop participants will explore and build select projects from the Lego Robotics curriculum. From setting up software to building robots with sensors, this workshop will help gain comfort with block-based programming using the Mindstorms platform.
+Participants will continue working on Scratch projects from the SEP curriculum including additional activities from unit 2. Teachers will explore intro to Scratch projects like step-by-step, 10 block among others, and will use the knowldge gained through these projects to complete the final project from unit 1. Returning teachers will have a chance to work on other projects from unit 2.
+
+* [Scratch Overview](https://docs.google.com/presentation/d/1d4K6IubmkTpvsFEyvZd3B7X6mTLis-RU0LFIcuTqjAk/edit?usp=sharing)
+* [Scratch Unit 1 - LA 3 & 4](https://docs.google.com/presentation/d/1OQlsSDBv1vd1muRGXhp69S00j2mlzoHh1flXEVwDIUY/edit?usp=sharing) 
+* [Scratch Unit 1 - LA 5 Final Project](https://docs.google.com/presentation/d/1fcEYRol2XES1b-iLkhgJToXoCwy0UFO0OlSNvcZnjS4/edit?usp=sharing)
+* [Scratch Curriculum](https://drive.google.com/open?id=0BxT9j1QGbz7zam53emlMbG9mLVk)
+* [Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yQUpReGREcUdiUGs)
 
 ---
 
