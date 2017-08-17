@@ -18,9 +18,9 @@ August 14-18, 2017
 | Time | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY
 | -----|-------| ------- | --------| --------| --------|
 | 9:00 AM |Breakfast / Sign In|Breakfast / Sign In|Breakfast / Sign In |Breakfast / Sign In|Breakfast / Sign In
-9:30 AM |Web Design 4 All|Intro to Scratch and Computational Thinking |Intro to Lego Robotics / Intro to Python |MS Teacher's Choice / Intro to Python | TLO planning 
+9:30 AM |Web Design 4 All|Intro to Scratch and Computational Thinking Pt. I |Intro to Scratch and Computational Thinking Pt. II / Intro to Python I |Project Development / Intro to Python II | TLO planning 
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH 
-1:00 PM |Web Design 4 All [continued]|Intro to Scratch and Computational Thinking [continued] |Intro to Lego Robotics [continued] / Intro to Python II + Learner's Workbook |Scratch Student Goals Design session / Intro to Python II + Learner's Workbook [continued] |TLO teacher presentations / Digital Literacy basics
+1:00 PM |Web Design 4 All [continued]|Intro to Scratch and Computational Thinking Pt. I [continued] |Intro to Scratch and Computational Thinking  Pt. II [continued] / Intro to Python I [continued]  |Scratch Student Goals Design session / Intro to Python II + Learner's Workbook [continued] |TLO teacher presentations / Digital Literacy basics
 3:30 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements | Daily survey + announcements|Daily survey + announcements
 4:00 PM | | | | |
 
