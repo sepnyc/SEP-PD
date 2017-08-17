@@ -85,13 +85,15 @@ In this workshop, articipants will review and apply CS concepts to write program
 ## <a name="thursday">Thursday</a>
 
 **MS Teacher's Choice Project Development(6th grade)**
-* Facilitators: José
+* Facilitators: José and Aankit
 * Room: 1/205
 
 Participants will use this time to develop additional projects, expand on existing projects or explore additional concepts from the following topics: Scratch and Web Design. 
 
-**Scratch Student Goals Design session (6th grade)**
-* Facilitators: José
+* [Slides](https://docs.google.com/presentation/d/1qm062EeWEWRk65SM-XBKK-xvRIbbz-_V85QtxFimz-k/edit?usp=sharing)
+
+**Student Goals Design session (6th grade)**
+* Facilitators: José and Aankit
 * Room: 1/205
 
 In this workshop, participants will use a backwards design approach to establish end goals for their students in Scratch. Teachers will be looking at the final project from this topic and design a plan to cover the content students will need to know to successfully complete this project.
