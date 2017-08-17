@@ -20,7 +20,7 @@ August 14-18, 2017
 | 9:00 AM |Breakfast / Sign In|Breakfast / Sign In|Breakfast / Sign In |Breakfast / Sign In|Breakfast / Sign In
 9:30 AM |Web Design 4 All|Intro to Scratch and Computational Thinking Pt. I |Intro to Scratch and Computational Thinking Pt. II / Intro to Python I |Project Development / Intro to Python II | TLO planning 
 12:00 PM |LUNCH|LUNCH|LUNCH|LUNCH|LUNCH 
-1:00 PM |Web Design 4 All [continued]|Intro to Scratch and Computational Thinking Pt. I [continued] |Intro to Scratch and Computational Thinking  Pt. II [continued] / Intro to Python I [continued]  |Scratch Student Goals Design session / Intro to Python II + Learner's Workbook [continued] |TLO teacher presentations / Digital Literacy basics
+1:00 PM |Web Design 4 All [continued]|Intro to Scratch and Computational Thinking Pt. I [continued] |Intro to Scratch and Computational Thinking  Pt. II [continued] / Intro to Python I [continued]  |Scratch Student Goals Design session / Intro to Python II [continued] |TLO teacher presentations / Digital Literacy basics
 3:30 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements | Daily survey + announcements|Daily survey + announcements
 4:00 PM | | | | |
 
@@ -100,16 +100,16 @@ In this workshop, participants will use a backwards design approach to establish
 
 ---
 
-**Intro to Python Pt. II + Learner's Workbook (9th grade)**
+**Intro to Python Pt. II (9th grade)**
 * Facilitators: Tim and Ritam 
 * Room:1/203
 
-Participants will explore and complete select activities from unit 2 of the Python curriculum covering additional CS concepts. By using the learner's wokbook resource, teachers will then adapt or work on a new project to document their work and gain a better understanding on how to assess student progress.
+Participants will explore and complete select activities from unit 2 of the Python curriculum covering additional CS concepts like loops.
 
 ## <a name="friday">Friday</a>
 
 **TLO planning and presentations (6th grade)**
-* Facilitators: José
+* Facilitators: Christa and Jose
 * Room: 1/205
 
 * [TLO Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yaXZwSGhQNXJLOXM)
@@ -117,7 +117,7 @@ Participants will explore and complete select activities from unit 2 of the Pyth
 ---
 
 **TLO planning and presentations (9th grade)**
-* Facilitators: Christa and Ritam
+* Facilitators: Tim and Ritam
 * Room: 1/204
 
 * [TLO Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yaXZwSGhQNXJLOXM)
