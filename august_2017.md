@@ -116,11 +116,11 @@ Participants will explore and complete select activities from unit 2 of the Pyth
 
 ---
 
-**TLO planning and presentations (9th grade)**
-* Facilitators: Tim and Ritam
-* Room: 1/204
+**Intro to Python Pt. III (9th grade)**
+* Facilitators: Tim and Ritam 
+* Room:1/203
 
-* [TLO Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yaXZwSGhQNXJLOXM)
+Participants will explore and complete select activities from unit 2 of the Python curriculum covering additional CS concepts like loops and functions.
 
 ---
 
