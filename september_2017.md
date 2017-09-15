@@ -22,7 +22,7 @@ August 14-18, 2017
 ## Workshop Descriptions
 ***
 ###  General:
-[General info + daily survey slides]()
+[General info + daily survey slides](https://docs.google.com/presentation/d/1NsfjolxV1PlCprVQ54r5hSAJK4RudeYmSyD-lFxIrUM/edit?usp=sharing)
 
 **Scratch Review + More**
 * Facilitator: Christa
