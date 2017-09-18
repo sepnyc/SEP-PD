@@ -47,7 +47,6 @@ Description:
 Participants will explore units 2-4 of the Microsfot Micro:bit curriculum by creating projects that cover and solidify the understanding of CS concepts such as algorithms, variables and conditionals. 
 
 * [Slides](https://docs.google.com/presentation/d/1O8dBGBTXjkjfqgGVzuQAv33w5DAyVmVFh0Od6zDYTTw/edit?usp=sharing)
-* [Resources]()
 
 **p5.js: while and for loops**
 * Facilitator: Luisa and Mike
