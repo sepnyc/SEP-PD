@@ -33,7 +33,7 @@ Description:
 Participants will explore units 2-4 from the SEP curriculum by creating projects for classroom use, and they'll solidify their understanding of CS concepts such as algorithms, abstraction, and functions.
 
 * [SEP Scratch Units 2-4](https://docs.google.com/presentation/d/1HkxPpCRqPqqT9qGmTyEgr74uSqUHilORacVpU0pBvW4/edit?usp=sharing)
-* [Resources]()
+* [Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yU1QtSXlBeE4zTzA)
 
 **Intro to Arduino III (Servo Motors)**
 * Facilitator: Emily and EJ
