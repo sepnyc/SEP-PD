@@ -22,7 +22,7 @@ October 21, 2017
 ## Workshop Descriptions
 ***
 ###  General:
-[General info + daily survey slides](https://docs.google.com/presentation/d/1NsfjolxV1PlCprVQ54r5hSAJK4RudeYmSyD-lFxIrUM/edit?usp=sharing)
+[General info + daily survey slides](https://docs.google.com/presentation/d/1luU5gLrg4sWw1tf228a6oEsbxKPYAH7mPBneHVzhZjc/edit?usp=sharing)
 
 **Scratch + CS Concepts**
 * Facilitator: Christa
@@ -32,7 +32,7 @@ Description:
 
 Participants will explore units 2-4 from the SEP curriculum by creating projects for classroom use, and they'll solidify their understanding of CS concepts such as algorithms, abstraction, and functions.
 
-* [SEP Scratch Units 2-4]()
+* [SEP Scratch Units 2-4](https://docs.google.com/presentation/d/1HkxPpCRqPqqT9qGmTyEgr74uSqUHilORacVpU0pBvW4/edit?usp=sharing)
 * [Resources]()
 
 **Intro to Arduino III (Servo Motors)**
@@ -43,7 +43,7 @@ Description:
 
 Participants will review programming in Arduino and will be introduced to the concepts of using servo motors in physical computing by working on a hands-on project. Documentation strategies will also be covered in this workshop.
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1IL6QAXKbalUuU1Ts3eNo70Aditbm5ZhYsSHElnAK6PM/edit?usp=sharing)
 
 **p5.js: Response and Motion**
 * Facilitator: Owen and Mike
@@ -53,7 +53,7 @@ Description:
 
 Participants will explore unit 2 of the curriculum to solidify their understand of conditionals and learn about event handlers to create a drawing app. Conepets from unit 4, such as animation, will be covered as well to create an interactive animated sketch.
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1wdHP95bV_RYOimzHL_G9-yZW-oMNMjX7vrBoS3wOJKM/edit?usp=sharing)
 
 ## <a name="links">Software & Links</a>
 ***
