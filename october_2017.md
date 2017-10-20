@@ -12,7 +12,7 @@ October 21, 2017
 | 9:00 AM |Breakfast / Sign In|Breakfast / Sign In|Breakfast / Sign In
 9:30 AM - 12 PM | Scratch | Arduino | p5.js
 12:00 PM |LUNCH|LUNCH|LUNCH
-1 PM - 3:30 PM | Scratch | Micro:bit | p5.js
+1 PM - 3:45 PM | Scratch | Arduino | p5.js
 3:45 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements
 
 ## Overview
