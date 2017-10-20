@@ -36,7 +36,7 @@ Participants will explore units 2-4 from the SEP curriculum by creating projects
 * [Resources](https://drive.google.com/open?id=0B3omYkYPfQ0yU1QtSXlBeE4zTzA)
 
 **Intro to Arduino III (Servo Motors)**
-* Facilitator: Emily and EJ
+* Facilitators: Emily and EJ
 * Room: Music Box (5411)
 
 Description:
@@ -46,7 +46,7 @@ Participants will review programming in Arduino and will be introduced to the co
 * [Slides](https://docs.google.com/presentation/d/1IL6QAXKbalUuU1Ts3eNo70Aditbm5ZhYsSHElnAK6PM/edit?usp=sharing)
 
 **p5.js: Response and Motion**
-* Facilitator: Owen and Mike
+* Facilitator: Owen
 * Room: Winter Garden (5412)
 
 Description:
