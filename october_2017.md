@@ -4,8 +4,6 @@
 * [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0yWXpHRlNla2NMM1U)
 * [SEP Curriculum Calendar 2017-2018](https://drive.google.com/open?id=1tnvlHdIT_-7ACauHstNih9gdVIMJRoN4MNj_qMnnzM4)
 
-### [Resources](#links)
-
 ## SEP October PD
 October 21, 2017
 
