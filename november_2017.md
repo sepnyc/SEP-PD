@@ -11,10 +11,10 @@ October 21, 2017
 | -----|-------| ------- | --------| 
 | 9:00 AM |Breakfast / Sign In|Breakfast / Sign In|Breakfast / Sign In
 | 9:30 AM |Planning for CS Ed Week|Planning for CS Ed Week|Planning for CS Ed Week
-10:00 AM - 12 PM | Lego Robotics I | Web Design II (HTML5 & CSS3) | p5.js
+10 AM - 12 PM | Lego Robotics I | Web Design II (HTML5 & CSS3) | p5.js
 12:00 PM |LUNCH|LUNCH|LUNCH
 1 PM - 3:45 PM | Lego Robotics I | Web Design II (HTML5 & CSS3) | p5.js
-3:45 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements
+3:45 - 4 PM | Daily survey + announcements|Daily survey + announcements|Daily survey + announcements
 
 ## Overview
 
