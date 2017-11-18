@@ -23,15 +23,23 @@ October 21, 2017
 ###  General:
 [General info + daily survey slides]()
 
+**Planning for CS Ed Week**
+* Facilitator: EJ & José
+* Room: Music Box (5411)
+
+* [Slides](https://drive.google.com/open?id=1f-9sMl1JY6K_1wJyz1JvqmHH-UOP8DV8)
+* [Resources](https://drive.google.com/open?id=1Yl2bYxJgzj4MOzDl1a41N1tBxawrsv-N)
+
 **Lego Robotics I**
 * Facilitator: Christa & EJ
 * Room: Music Box (5411)
 
 Description:
 
+Participants will gain an understanding of  LEGO robotics basics and get familiarized with the SEP robotics curriculum. In addition, they will learn about programming robot’s actions through solving several challenges.
 
-* [Slides]()
-* [Challenges]()
+* [Slides](https://drive.google.com/open?id=1Ytx_gWT4A7SsEDAr9PD1shkc9UZ7oXDV)
+* [Resources](https://drive.google.com/open?id=1Yl2bYxJgzj4MOzDl1a41N1tBxawrsv-N)
 
 **Web Design II (HTML5 & CSS3)**
 * Facilitator: Tim
