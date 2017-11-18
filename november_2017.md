@@ -21,7 +21,7 @@ October 21, 2017
 ## Workshop Descriptions
 ***
 ###  General:
-[General info + daily survey slides]()
+[General info + daily survey slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1oLfj8xWfP1kKo0Fkljlc7ySFF-IKdWCStgXydYHWeVI/edit?usp=sharing)
 
 **Planning for CS Ed Week**
 * Facilitator: EJ & José
