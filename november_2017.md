@@ -47,7 +47,7 @@ Participants will gain an understanding of  LEGO robotics basics and get familia
 
 Description:
 
-
+Participants will build on previous HTML/CSS knowledge to build a site for an online newspaper using new semantic HTML5 tags and CSS layout techniques such as Flexbox.
 
 * [Slides]()
 
