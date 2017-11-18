@@ -49,7 +49,7 @@ Description:
 
 Participants will build on previous HTML/CSS knowledge to build a site for an online newspaper using new semantic HTML5 tags and CSS layout techniques such as Flexbox.
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1VraSeWgazs-y8Fvyh6CHHq9SVEgrEfMIUbKY1tkO-sw/edit?usp=sharing)
 
 **p5.js: Transformation and Functions**
 * Facilitator: Luisa & Courtney
