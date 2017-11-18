@@ -49,9 +49,10 @@ Description:
 
 Description:
 
+In this session participants will learn how to use p5 transformation functions to write their own functions that interact with user input.
 
-* [Slides]()
-* [Resources]()
+* [Slides](https://docs.google.com/presentation/d/1CYUr1sr3vnsONTGNU7z6HVjFWFloXOkXUkaTjKIck5M/edit?usp=sharing)
+* [Resources](https://drive.google.com/open?id=1HPjZPrP9FsoaWfFkGOKjlrO3O5cHThC5)
 
 ## <a name="links">Software & Links</a>
 ***
