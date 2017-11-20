@@ -26,6 +26,7 @@
 * [SEP Summer Institute August 2017](https://github.com/sepnyc/SEP-PD/blob/master/august_2017.md)
 * [SEP September PD](https://github.com/sepnyc/SEP-PD/blob/master/september_2017.md)
 * [SEP October PD](https://github.com/sepnyc/SEP-PD/blob/master/october_2017.md)
+* [SEP November PD](https://github.com/sepnyc/SEP-PD/blob/master/november_2017.md)
 
 
 ## <a name="links">Resources</a>
