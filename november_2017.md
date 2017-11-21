@@ -27,7 +27,7 @@ October 21, 2017
 * Facilitator: EJ & José
 * Room: Music Box (5411)
 
-* [Slides](https://drive.google.com/open?id=1f-9sMl1JY6K_1wJyz1JvqmHH-UOP8DV8)
+* [Slides](https://drive.google.com/open?id=1T6_kbb1umT1mkNd02ykQsUonpD0-Fbkww8WoI2d_IGo)
 * [Resources](https://drive.google.com/open?id=1f-9sMl1JY6K_1wJyz1JvqmHH-UOP8DV8)
 
 **Lego Robotics I**
