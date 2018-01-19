@@ -19,19 +19,19 @@ January 20, 2018
 ## Workshop Descriptions
 ***
 ###  General:
-[General info + daily survey slides](https://docs.google.com/a/strongschools.nyc/presentation/d/1oLfj8xWfP1kKo0Fkljlc7ySFF-IKdWCStgXydYHWeVI/edit?usp=sharing)
+[General info + daily survey slides](https://docs.google.com/presentation/d/1tdUZDU07HDX7YrHidIsOfRw_iAHz_RNIM-XY7lss2WU/edit?usp=sharing)
 
 
 **Lego Robotics II**
 * Facilitator: Christa & EJ
-* Room: Music Box (5411)
+* Room: Radio City (6604)
 
 Description:
 
 In this session participants will make the robot interact with its surroundings. They will explore the Ultrasonic, Touch and Color sensors and work on some fun challenges!
 
-* [Slides](https://drive.google.com/open?id=1Ytx_gWT4A7SsEDAr9PD1shkc9UZ7oXDV)
-* [Resources](https://drive.google.com/open?id=1Yl2bYxJgzj4MOzDl1a41N1tBxawrsv-N)
+* [Slides]()
+* [Resources](https://drive.google.com/open?id=1LOA42dn4RKSaKRjLO0Ex5VtikJKFufmm)
 
 **Web Design II (HTML5 & CSS3)**
 * Facilitator: Tim
@@ -39,20 +39,19 @@ In this session participants will make the robot interact with its surroundings.
 
 Description:
 
-Participants will build on previous HTML/CSS knowledge to build a site for an online newspaper using new semantic HTML5 tags and CSS layout techniques such as Flexbox.
+Participants will explore learning activities and projects from units 2 and 3 of the SEP web design II curriculum.
 
-* [Slides](https://docs.google.com/presentation/d/1VraSeWgazs-y8Fvyh6CHHq9SVEgrEfMIUbKY1tkO-sw/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1ulHJVYJUjg0hySvfjgZJFVxbG7knj0Ttwb0fQ-PmGV4/edit?usp=sharing)
 
-**p5.js: Transformation and Functions**
-* Facilitator: Luisa & Courtney
-* Room: Winter Garden (5412)
+**p5.js: Arrays and Objects**
+* Facilitator: Owen
+* Room: Majestic (5323)
 
 Description:
 
-In this session participants will learn how to use p5 transformation functions to write their own functions that interact with user input.
+In this session participants will learn how to use arrays and objects via hands-on activities from unit 6 to create more complex projects in p5.js.
 
-* [Slides](https://docs.google.com/presentation/d/1CYUr1sr3vnsONTGNU7z6HVjFWFloXOkXUkaTjKIck5M/edit?usp=sharing)
-* [Resources](https://drive.google.com/open?id=1HPjZPrP9FsoaWfFkGOKjlrO3O5cHThC5)
+* [Slides](https://docs.google.com/presentation/d/1OVrHcNAg2aJI8m_cUeUXVm9HnPlRwmLLVDaf37VixAA/edit?usp=sharing)
 
 ## <a name="links">Software & Links</a>
 ***
