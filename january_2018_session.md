@@ -30,7 +30,7 @@ Description:
 
 In this session participants will make the robot interact with its surroundings. They will explore the Ultrasonic, Touch and Color sensors and work on some fun challenges!
 
-* [Slides]()
+* [Slides](https://drive.google.com/open?id=1ulHJVYJUjg0hySvfjgZJFVxbG7knj0Ttwb0fQ-PmGV4)
 * [Resources](https://drive.google.com/open?id=1LOA42dn4RKSaKRjLO0Ex5VtikJKFufmm)
 
 **Web Design II (HTML5 & CSS3)**
