@@ -28,8 +28,8 @@ February 10, 2018
 
 In this workshop, articipants will review and apply CS concepts to computer graphics using the p5.js programming environment.They will gain a comfort with text based programming and create working examples for lesson development.
 
-* [Slides]()
-* [Resources]()
+* [Slides](https://drive.google.com/open?id=1gSfDtxcSMk_KmS5W14AcM1BOoqirfxZvKFEpmlUg3JY)
+* [Resources](https://drive.google.com/open?id=1ZmERZDHhM4A7TB27mQcxrcPJeAi5Z0m8)
 
 **p5.js (Unit 6 - Objects)**
 * Facilitator: Luisa
