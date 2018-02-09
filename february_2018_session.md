@@ -12,7 +12,7 @@ February 10, 2018
 9:30 AM - 12 PM | Intro to p5.js | p5.js (Unit 6 - Objects) 
 12:00 PM |LUNCH|LUNCH|LUNCH
 1 PM - 3:45 PM | Intro to p5.js | p5.js (Unit 6 - Objects)
-3:45 - 4 PM | Daily survey + announcements |Daily survey + announcements + APCSP info session
+3:45 - 4 PM | Daily survey + announcements |Daily survey + announcements + AP CSP info session
 
 ## Overview
 
