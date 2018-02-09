@@ -20,7 +20,8 @@ February 10, 2018
 ***
 ###  General:
 
-[General info + daily survey slides]()
+[General info + daily survey slides](https://docs.google.com/presentation/d/1IMzfk49xBQKveU0fD6NMqgOhiDCrsjXOiM9OsVBo5C4/edit?usp=sharing)
+[11th grade AP CSP Fact Sheet](https://tinyurl.com/SEP11Offering)
 
 **Intro to p5.js**
 * Facilitator: Owen
@@ -37,9 +38,7 @@ In this workshop, articipants will review and apply CS concepts to computer grap
 
 Participants will continue working their way through Unit 6 of the p5.js curriculum. New concepts introduced in this workshop including array manipulation, event handlers and object detection. Teachers will have a chance to develop the final project from the unit or work on an alternate tutorial to solidify their understanding of objects and object-oriented programming.
 
-
 * [Slides]()
-
 
 ## <a name="links">Software & Links</a>
 ***
