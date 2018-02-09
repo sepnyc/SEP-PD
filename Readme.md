@@ -27,6 +27,8 @@
 * [SEP September PD](https://github.com/sepnyc/SEP-PD/blob/master/september_2017.md)
 * [SEP October PD](https://github.com/sepnyc/SEP-PD/blob/master/october_2017.md)
 * [SEP November PD](https://github.com/sepnyc/SEP-PD/blob/master/november_2017.md)
+* [SEP January PD](https://github.com/sepnyc/SEP-PD/blob/master/january_2018_session.md)
+* [SEP February PD](https://github.com/sepnyc/SEP-PD/blob/master/february_2018_session.md)
 
 
 ## <a name="links">Resources</a>
