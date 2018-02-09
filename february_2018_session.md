@@ -1,4 +1,4 @@
-# SEP Professional Development 2017
+# SEP Professional Development 2018
 
 ### Schedules:
 * [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0yWXpHRlNla2NMM1U)
@@ -22,22 +22,20 @@ February 10, 2018
 
 [General info + daily survey slides]()
 
-
 **Intro to p5.js**
 * Facilitator: Owen
-* Room: Radio City (6604)
+* Room: 407
 
-Description:
-
+In this workshop, articipants will review and apply CS concepts to computer graphics using the p5.js programming environment.They will gain a comfort with text based programming and create working examples for lesson development.
 
 * [Slides]()
 * [Resources]()
 
 **p5.js (Unit 6 - Objects)**
 * Facilitator: Luisa
-* Room: 
+* Room: 408
 
-Description:
+Participants will continue working their way through Unit 6 of the p5.js curriculum. New concepts introduced in this workshop including array manipulation, event handlers and object detection. Teachers will have a chance to develop the final project from the unit or work on an alternate tutorial to solidify their understanding of objects and object-oriented programming.
 
 
 * [Slides]()
