@@ -21,6 +21,7 @@ February 10, 2018
 ###  General:
 
 [General info + daily survey slides](https://docs.google.com/presentation/d/1IMzfk49xBQKveU0fD6NMqgOhiDCrsjXOiM9OsVBo5C4/edit?usp=sharing)
+
 [11th grade AP CSP Fact Sheet](https://tinyurl.com/SEP11Offering)
 
 **Intro to p5.js**
