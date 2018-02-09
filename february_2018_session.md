@@ -39,7 +39,7 @@ In this workshop, articipants will review and apply CS concepts to computer grap
 
 Participants will continue working their way through Unit 6 of the p5.js curriculum. New concepts introduced in this workshop including array manipulation, event handlers and object detection. Teachers will have a chance to develop the final project from the unit or work on an alternate tutorial to solidify their understanding of objects and object-oriented programming.
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1hB0rZ7a__K-kMS2iqoRMv-eFfCsyuBboQUzzYIyjtdg/edit?usp=sharing)
 
 ## <a name="links">Software & Links</a>
 ***
