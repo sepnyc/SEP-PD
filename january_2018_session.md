@@ -1,4 +1,4 @@
-# SEP Professional Development 2017
+# SEP Professional Development 2018
 
 ### Schedules:
 * [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0yWXpHRlNla2NMM1U)
