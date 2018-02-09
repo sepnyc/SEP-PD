@@ -7,8 +7,8 @@
 ## SEP January PD
 February 10, 2018
 
-| Time | | 7th | 10th
-| -----|-------| ------- | --------| 
+| Time |  7th | 10th
+| -----|-------| ------- |
 9:30 AM - 12 PM | Intro to p5.js | p5.js (Unit 6 - Objects) 
 12:00 PM |LUNCH|LUNCH|LUNCH
 1 PM - 3:45 PM | Intro to p5.js | p5.js (Unit 6 - Objects)
