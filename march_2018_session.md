@@ -38,7 +38,7 @@ In this workshop, participants will continue to explore new CS concepts in the p
 
 In this workshop particiapnts will learn how HTML and Javascript can work together in their p5 sketches. Participants will create HTML elements by adding them to an HTML file, then using Javascript, and then manipulate then dynamically.
 
-* [Slides](https://docs.google.com/presentation/d/1hB0rZ7a__K-kMS2iqoRMv-eFfCsyuBboQUzzYIyjtdg/edit?usp=sharing)
+* [Slides](https://tinyurl.com/p5-unit7-dom)
 
 ## <a name="links">Software & Links</a>
 ***
