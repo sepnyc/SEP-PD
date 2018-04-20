@@ -4,7 +4,7 @@
 * [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0yWXpHRlNla2NMM1U)
 * [SEP Curriculum Calendar 2017-2018](https://drive.google.com/open?id=1tnvlHdIT_-7ACauHstNih9gdVIMJRoN4MNj_qMnnzM4)
 
-## SEP February PD
+## SEP March PD
 March 10, 2018
 
 | Time |  7th | 10th
