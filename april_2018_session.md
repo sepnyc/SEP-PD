@@ -26,15 +26,16 @@ April 21, 2018
 * Facilitator: Owen
 * Room: Broadway
 
-In this workshop, participants will continue to explore new CS concepts in the p5.js programming environment. The new concepts include variables, boolean expressions and conditionals. Using these concepts in their projects, teachers will started adding various interactivity to their sketches. 
+Following the last workshop, participants will continue to build up their p5.js programming skills. Teachers will learn new event handlers and have a chance to enhance their understanding of variables and conditionals. Throughout the workshop, they will build their version of an interactive drawing app.
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/1fLfYXL0_QIhnSvhE9wvFBlIJGMzARmeVdj66moNhRnA/edit?usp=sharing)
 
 **p5.js (Unit 7 - DOM II)**
 * Facilitator: Luisa
 * Room: Music Box
 
 In this workshop particiapnts will learn how to build user interfaces using JavaScript and incoporating callback functions. Through various exercises participants will learn how to create buttons, sliders, input fields to make a color mixing app and build an interface for a previous final project from the curriculum.
+
 * [Slides](https://tinyurl.com/p5dom2)
 
 ## <a name="links">Software & Links</a>
