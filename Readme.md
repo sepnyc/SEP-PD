@@ -2,7 +2,7 @@
 ### Schedules:
 
 * [SEP 2017-18 PD Dates](https://drive.google.com/open?id=0B3omYkYPfQ0yWXpHRlNla2NMM1U)
-* [SEP Curriculum Calendar 2017-2018](https://drive.google.com/open?id=1tnvlHdIT_-7ACauHstNih9gdVIMJRoN4MNj_qMnnzM4)
+* [SEP Curriculum Calendar](https://drive.google.com/open?id=1tnvlHdIT_-7ACauHstNih9gdVIMJRoN4MNj_qMnnzM4)
 
 #### 2016-2017
 
@@ -29,13 +29,14 @@
 * [SEP November PD](https://github.com/sepnyc/SEP-PD/blob/master/november_2017.md)
 * [SEP January PD](https://github.com/sepnyc/SEP-PD/blob/master/january_2018_session.md)
 * [SEP February PD](https://github.com/sepnyc/SEP-PD/blob/master/february_2018_session.md)
+* [SEP March PD](https://github.com/sepnyc/SEP-PD/blob/master/march_2018_session.md)
+* [SEP April PD](https://github.com/sepnyc/SEP-PD/blob/master/april_2018_session.md)
+* [SEP May PD](https://github.com/sepnyc/SEP-PD/blob/master/may_2018_session.md)
 
 
 ## <a name="links">Resources</a>
 ***
-*   [SEP Teachers Q&A Forum](http://tinyurl.com/septeachers)
 *   [SEP Curriculum](https://drive.google.com/open?id=0B8D2ft9M8qQCamQwZGpJMEU2TEk)
+*   [Introduction to Creative Coding with p5.js](https://nycdoe-cs4all.github.io/units/index.html)
 *   [SEP PD Materials](https://drive.google.com/drive/folders/0B8D2ft9M8qQCYXY2V3VndWNob0E?usp=sharing)
-*   [SEP Starter Pack: Implementation Guide](https://drive.google.com/a/strongschools.nyc/file/d/0B1tN9SuyE6fxOHJOZkxsYURPRHc/view)
-*   [CS Unplugged](http://csunplugged.org/)
-*   [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+*   [NYC DOE CS4All Teacher Slack](https://cs4allteachers.slack.com)
